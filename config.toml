@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Bioconductor"
+title = "CSAMA 2022"
 theme = "hugo-universal-theme"
 # themesDir = "../.."
 languageCode = "en-us"
@@ -24,75 +24,41 @@ paginate = 50
     weight = 1
 
 [[menu.main]]
-    identifier="submissions"
-    name = "Submissions"
-    url  = "/submissions/"
+    identifier="about"
+    name = "About"
+    url  = "/about/"
     weight = 2
 
 [[menu.main]]
-    identifier = "registration"
+    identifier = "programme"
+    name = "Programme"
+    url  = "/programme/"
+    weight = 3
+
+[[menu.main]]
+    identifier="registration"
     name = "Registration"
     url  = "/registration/"
     weight = 3
 
 [[menu.main]]
-    identifier="schedule"
-    name = "Schedule"
-    url  = "/schedule/"
-    weight = 3
-
-#[[menu.main]]
-#    identifier="workshops"
-#    name = "Workshops"
-#    url  = "/workshops-status/"
-#    weight = 4
-
+    identifier="venue"
+    name = "Venue"
+    url  = "/venue/"
+    weight = 4
+    
 [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url  = "#"
+    identifier="travel"
+    name = "Travel and Accomodation"
+    url  = "/travel-and-accomodation/"
     weight = 5
 
-# https://github.com/devcows/hugo-universal-theme/issues/34
 [[menu.main]]
-    identifier = "organizers"
-    parent = "about"
-    name = "Organizers"
-    url  = "/organizers/"
+    identifier = "contact"
+    name = "Contact"
+    url  = "/contact/"
     weight = 6
 
-[[menu.main]]
-    identifier = "sponsors"
-    parent = "about"
-    name = "Sponsors"
-    url  = "/sponsors/"
-    weight = 7
-
-[[menu.main]]
-    identifier = "code"
-    parent = "about"
-    name = "Code of conduct"
-    url  = "/code/"
-    weight = 8
-
-[[menu.main]]
-    identifier = "conferences"
-    parent = "about"
-    name = "Past events"
-    url  = "/conferences/"
-    weight = 9
-
-#[[menu.main]]
-#    identifier = "conferences"
-#    name = "Past events"
-#    url  = "/conferences/"
-#    weight = 9
-
-# [[menu.main]]
-#     identifier = "contact"
-#     name = "Contact"
-#     url  = "/contact/"
-#     weight = 8
 
 # Top bar social links menu
 
@@ -101,12 +67,6 @@ paginate = 50
     name = "GitHub"
     url = "https://github.com/Bioconductor"
     pre = "<i class='fab fa-2x fa-github'></i>"
-
-# [[menu.topbar]]
-#     weight = 2
-#     name = "Facebook"
-#     url = "http://facebook.com"
-#     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [[menu.topbar]]
     weight = 3
@@ -146,7 +106,7 @@ paginate = 50
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "blue"
+    style = "default"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
@@ -164,26 +124,22 @@ paginate = 50
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = "<p>Bioconductor conference highlights current developments within and beyond the Bioconductor project.</p>"
-    copyright = "Copyright (c) 2020 - 2022, Bioconductor."
+    about_us = ""
+    copyright = "Copyright (c) 2022, European Bioconductor Society e.V."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/logo.png"
-    logo_small = "img/logo.png"
-    address = """<p class="text-uppercase"><strong><a href="http://bioconductor.org/" target="_blank">Bioconductor web site</a></strong></p>
-        <p><a href="http://bioconductor.org/about" target="_blank">About Bioconductor</a>
-        <br><a href="http://bioconductor.org/help" target="_blank">Getting help</a>
-      </p>
-      """
+    logo = "img/csama-logo-small.png"
+    logo_small = "img/csama-logo-smaller.png"
+    address = ""
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">Join/follow our community</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
@@ -208,14 +164,6 @@ paginate = 50
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.testimonials]
-    enable = false
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
-    title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
-
 [params.speakers]
     enable = true
     # All testimonials are defined in their own files. You can find example items
@@ -237,7 +185,7 @@ paginate = 50
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
-    title = "Our Sponsors"
+    title = "Organised in collaboration with"
     subtitle = ""
 
 [params.recent_posts]
