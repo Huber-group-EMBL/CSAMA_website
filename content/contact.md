@@ -3,8 +3,14 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+## Contact
 
-## Members of organizing committees
+By inquiries related to the registration, scientific program, organisation and certificates of attendance, please contact Simone Bell, simone.bell(at)embl.de
 
-**Bold** highlights leaders of the committees
+## Course coordination
+Wolfgang Huber and Mike Smith, European Molecular Biology Laboratory (EMBL), Heidelberg
+
+## Course organisation
+Simone Bell, European Molecular Biology Laboratory (EMBL), Heidelberg
+
+

@@ -1,4 +1,27 @@
-text: "Tempor orci eu lobortis elementum nibh tellus molestie nunc. Eget est lorem ipsum dolor sit amet consectetur. Vitae tortor condimentum lacinia quis vel. Ultricies lacus sed turpis tincidunt. Odio tempor orci dapibus ultrices in. Arcu dictum varius duis at consectetur lorem. Scelerisque viverra mauris in aliquam sem fringilla ut. Neque volutpat ac tincidunt vitae semper quis lectus nulla at. Proin sed libero enim sed faucibus turpis in. Laoreet id donec ultrices tincidunt arcu non sodales neque. Libero nunc consequat interdum varius sit amet. Eget egestas purus viverra accumsan in nisl. Orci nulla pellentesque dignissim enim sit. Suspendisse ultrices gravida dictum fusce ut placerat orci nulla pellentesque. Placerat vestibulum lectus mauris ultrices. Diam maecenas ultricies mi eget mauris pharetra et ultrices. Pharetra diam sit amet nisl suscipit. Aliquam etiam erat velit scelerisque in dictum non consectetur."
-name: "Etiam erat velit scelerisque in dictum non consectetur."
-position: "Lacus laoreet non curabitur gravida arcu ac tortor dignissim."
-avatar: "img/speakers/avatar.png"
+text: "<div style='width: 50%; float: left; margin-top: -20px'>
+  <h3>Lecturers</h3>
+  <ul>
+    <li>Laurent Gatto, UCLouvain</li>
+    <li>Robert Gentleman, 23andMe, Mountain View</li>
+    <li>Wolfgang Huber, EMBL Heidelberg</li>
+    <li>Katharina Imkeller, German Cancer Research Center, Heidelberg</li>
+    <li>Johannes Rainer, European Academy of Bozen</li>
+    <li>Davide Risso, University of Padova</li>
+    <li>Lori Shepherd, Roswell Park Comprehensive Cancer Center, Buffalo</li>
+    <li>Charlotte Soneson, Friedrich Miescher Institute for Biomedical Research, Basel</li>
+    <li>Britta Velten, DKFZ Heidelberg</li>
+  </ul>
+  </div>
+  <div style='margin-left: 50%;'>
+  <h3>Participating Experts</h3>
+  <ul>
+    <li>Martin Morgan, Roswell Park Comprehensive Cancer Center, Buffalo</li>
+    <li>Levi Waldron, CUNY Medical School, New York</li>
+  </ul>
+  <h3>Teaching Assistants</h3>
+  <ul>
+    <li>Simone Bell, EMBL, Heidelberg</li>
+    <li>Mike L. Smith, EMBL, Heidelberg</li>
+  </ul>
+  </div>
+"

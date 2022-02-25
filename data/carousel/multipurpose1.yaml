@@ -1,4 +1,8 @@
 weight: 1
-title: "Bioconductor conference"
-description: "<p>Where Software and Biology Connect</p>"
-image: "img/carousel/BioC2021.png"
+title: "CSAMA 2022"
+description: 
+  <h2>Statistical Data Analysis for Genome Scale Biology</h2><br/>
+  <p>18th Edition</p><br/>
+  <h3>Bressanone-Brixen, Italy</h3>
+  <p>June 19-24, 2022</p>
+image: "img/carousel/EuroBioC.png"
