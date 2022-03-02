@@ -49,12 +49,12 @@ paginate = 50
     
 [[menu.main]]
     identifier="travel"
-    name = "Travel and Accomodation"
-    url  = "/travel-and-accomodation/"
+    name = "Travel and Accommodation"
+    url  = "/travel-and-accommodation/"
     weight = 5
 
 [[menu.main]]
-    identifier = "contact"
+    identifier = "contactus"
     name = "Contact"
     url  = "/contact/"
     weight = 6
