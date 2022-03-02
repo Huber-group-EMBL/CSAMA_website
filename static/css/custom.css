@@ -1,0 +1,27 @@
+#footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 50px;
+}
+
+#copyright {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+table.programme {
+    width: 100%;
+}
+
+#fees {
+    padding-bottom: 20px;
+    display: flex;
+}
+
+th, td {
+  padding: 5px;
+}
+
+p {
+    font-size: 1.1em;
+}

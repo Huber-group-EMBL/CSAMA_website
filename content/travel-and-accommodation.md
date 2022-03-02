@@ -1,5 +1,5 @@
 +++
-title = "Travel and Accommodation"
+title = "Travel & Accommodation"
 description = "Details of how to get to Brixen and where to stay"
 +++
 

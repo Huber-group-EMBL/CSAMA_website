@@ -49,7 +49,7 @@ paginate = 50
     
 [[menu.main]]
     identifier="travel"
-    name = "Travel and Accommodation"
+    name = "Travel & Accommodation"
     url  = "/travel-and-accommodation/"
     weight = 5
 
@@ -124,13 +124,13 @@ paginate = 50
     email = "your@email.com"
     contact_form_ajax = false
 
-    about_us = ""
+    about_us = "The European Bioconductor Society e.V. is a registered association in Germany created to support Bioconductor's mission to promote open source software in the life sciences and statistics."
     copyright = "Copyright (c) 2022, European Bioconductor Society e.V."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "img/csama-logo-small.png"
+    logo = "img/dual-logo.png"
     logo_small = "img/csama-logo-smaller.png"
     address = ""
 
@@ -171,6 +171,11 @@ paginate = 50
     # For more informtion take a look at the README.
     title = "Speakers"
     # subtitle = "Confirmed speakers"
+
+[params.overview]
+    enable = true
+    title = "Overview"
+    content = "The one-week intensive course **Statistical Data Analysis for Genome-Scale Biology** teaches statistical and computational data analysis of multi-omics studies in biology and biomedicine. It comprises lectures covering underlying theory and state of the art, and practical hands-on exercises based on the R / Bioconductor environment. At the end of the course, you should be able to run analysis workflows on your own (multi-)omic data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies."
 
 [params.see_more]
     enable = false

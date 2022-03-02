@@ -1,4 +1,7 @@
-The one-week intensive course **Statistical Data Analysis for Genome-Scale Biology** teaches statistical and computational data analysis of multi-omics studies in biology and biomedicine. It comprises lectures covering underlying theory and state of the art, and practical hands-on exercises based on the R / Bioconductor environment. At the end of the course, you should be able to run analysis workflows on your own (multi-)omic data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies.
++++
+title = "About The Course"
+description = "Details of the course content and structure"
++++
 
 The course is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows. The four practical sessions of the course will require you to follow and modify scripts in the computer language R. To freshen up your R skills, see below for some links.
 
@@ -18,6 +21,7 @@ The course is intended for researchers who have basic familiarity with the exper
 - Working with large data: performance parallelisation and cloud computing
 
 ## Course Structure
+
 The course consists of:
 
 - Morning lectures: 20 x 45 minutes: Monday to Friday 8:30-12:00h
@@ -27,8 +31,7 @@ The course consists of:
 
 ## Course Materials
 
-Download the course materials for the labs.
-Download the course materials for the lectures.
+All lecture slides and workshop material will be made available during the course and will remain available after the event.
 
 ## Computer Tutorials
 

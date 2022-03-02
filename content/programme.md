@@ -3,7 +3,8 @@ title = "Programme"
 description = "Programme of events"
 +++
 
-<div class="entry-content">
+<div class="row">
+<div class="col-sm-offset-1 col-sm-10">
 				
 <h2>Sunday, July 21</h2>
 <table class="programme">
@@ -357,4 +358,6 @@ description = "Programme of events"
 <p>Each talk 5 min + 2 min questions</p>
 <h3>Lecturers and Teaching Assistants</h3>
 <p>Simon Anders (SA), Simone Bell (SB), Vincent J. Carey (VJC), Laurent Gatto (LG), Robert Gentleman (RG), Wolfgang Huber (WH), Katharina Imkeller (KI), Martin Morgan (MM), Davide Risso (DR), Mike Smith (MS), Johannes Rainer (JR), Lori Shepherd (LS), Charlotte Soneson (CS).</p>
+
+</div>
 </div>
