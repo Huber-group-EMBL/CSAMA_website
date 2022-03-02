@@ -67,7 +67,8 @@ Speakers and programme agenda are subject to change.
 <!--<form method="post" action="https://formspree.io/your@email.com">-->
 <!--<form name="register" action="" method="post" target="_top" netlify>-->
 <form name="register" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" data-netlify="true">
-<input name="cmd" type="hidden" value="_s-xclick"><br>
+<input type="hidden" name="form-name" value="register">
+<input type="hidden" name="cmd" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="LVF38P94NE7CS">
   <div class="row">
     <div class="col-sm-offset-1 col-sm-10">
