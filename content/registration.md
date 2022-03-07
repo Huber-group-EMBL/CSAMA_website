@@ -65,7 +65,11 @@ Speakers and programme agenda are subject to change.
 ## Register interest
 
 <!--<form method="post" action="https://formspree.io/your@email.com">-->
-<form name="register" method="post" target="_top" data-netlify="true">
+<form name="register" 
+      method="post" 
+      target="_top" 
+      action="/success/" 
+      data-netlify="true">
 <!--<form name="register" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" data-netlify="true">-->
 <!--<input type="hidden" name="form-name" value="register">
 <input type="hidden" name="cmd" value="_s-xclick">
