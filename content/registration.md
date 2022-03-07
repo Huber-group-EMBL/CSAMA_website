@@ -58,14 +58,10 @@ Speakers and programme agenda are subject to change.
       target="_top" 
       action="/payment/" 
       data-netlify="true">
-<!--<form name="register" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" data-netlify="true">-->
-<!--<input type="hidden" name="form-name" value="register">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input name="hosted_button_id" type="hidden" value="LVF38P94NE7CS">-->
   <div class="row">
     <div class="col-sm-offset-1 col-sm-1">
         <div class="form-group">
-            <label for="name">Title</label>
+            <label for="title">Title</label>
             <input type="text" class="form-control" name="title" id="title" required="">
         </div>
     </div>
@@ -97,7 +93,7 @@ Speakers and programme agenda are subject to change.
     </div>
     <div class="col-sm-5">
       <div class="form-group">
-        <label for="email">Affiliation or Organisation</label>
+        <label for="affiliation">Affiliation or Organisation</label>
         <input type="text" class="form-control" name="affiliation" id="affiliation" required="">
       </div>
     </div>
@@ -121,7 +117,7 @@ Speakers and programme agenda are subject to change.
     </div>
     <div class="col-sm-offset-1 col-sm-5">
       <div class="form-group">
-        <label for="email">Dietary Requirements (leave blank if none)</label>
+        <label for="diet">Dietary Requirements (leave blank if none)</label>
         <input type="text" class="form-control" name="diet" id="diet">
       </div>
     </div>
