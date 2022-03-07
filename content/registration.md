@@ -9,26 +9,22 @@ description = "Registration"
 <tbody>
 <tr>
 <th width="40%">Category</th>
-<th width="30%">before taxe</th>
-<th width="30%">VAT 22% included</th>
+<th width="30%">Course Fee</th>
 </tr>
 <tr>
 <td><b>JUN</b> (Junior researchers)<br>
 <small>Graduate students and postdocs</small></td>
-<td>850 € + VAT</td>
 <td>1037 €</td>
 </tr>
 <tr>
 <td><b>ACA</b> (Academic/non-profit)<br>
 <small>Researchers from academic and other non-profit institutions</small></td>
-<td>1150 € + VAT</td>
 <td>1403 €</td>
 </tr>
 <tr>
 <td><b>COM</b> (Commercial)<br>
 <small>Researchers from the commercial sector<br>
 </small></td>
-<td>2000 € + VAT</td>
 <td>2440 €</td>
 </tr>
 </tbody>
@@ -36,25 +32,17 @@ description = "Registration"
 
 The course fees include participation in the lectures, the computer tutorials and all other course events: coffee breaks, buffet lunch (Monday to Friday), Wednesday’s social programme and dinner, course material.
 
-Places are awarded on a first-come, first-served basis. In the last years, the course was sold out. We aim to finalize registration by 14 June 2019.
+Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 14 June 2019.
 
 In order to register, each participant needs to fill in the form below and complete the payment. Please include your contact email and name. Cumulative payments can be placed in case of more than one participant belonging to the same category.
 
 ### Before paying:
 
-If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at csama@voices-int.com.
-If you are unsure about which category you belong to, if you need to pay by money transfer, if you need an invoice for your institution, or for any other need, please contact us at csama@voices-int.com.
-Registration, on-site logistics and other local assistance will be handled by VOICES from the Blogs, a Spinoff Company of the University of Milan.
-
-**NOTE:** If you pay through PayPal from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “Should I pay the VAT” section.
-
-Italian participants payed by Italian institutions (PA) or private companies, should ask for the “fattura elettronica” unless they pay on a personal basis.
-
-If you are uncertain about the payment, please contact us at csama@voices-int.com and we will guide you through registration.
+If you are unsure about which category you belong to, if you need to pay by money transfer, if you need an invoice for your institution, or for any other need, please contact us at simone.bell(at)embl.de
 
 ### Cancellation and Refund policy:
 
-Cancellation of registration must be submitted in writing or via email and is valid only with acknowledgement of receipt by VOICES.
+Cancellation of registration must be submitted in writing or via email and is valid only with acknowledgement of receipt.
 
 Cancellation fees are dependent on the notice given:
 
@@ -68,27 +56,20 @@ Speakers and programme agenda are subject to change.
 <form name="register" 
       method="post" 
       target="_top" 
-      action="/success/" 
+      action="/payment/" 
       data-netlify="true">
 <!--<form name="register" action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" data-netlify="true">-->
 <!--<input type="hidden" name="form-name" value="register">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input name="hosted_button_id" type="hidden" value="LVF38P94NE7CS">-->
   <div class="row">
-    <div class="col-sm-offset-1 col-sm-10">
-      <div class="form-group">
-        <label for="os0">Registration Type</label>
-        <select class="form-control" name="os0">
-            <option value="STU NO VAT">STU NO VAT €850,00 EUR</option>
-            <option value="STU PLUS VAT 22%">STU PLUS VAT 22% €1.037,00 EUR</option>
-            <option value="ACA NO VAT">ACA NO VAT €1.150,00 EUR</option>
-            <option value="ACA PLUS VAT 22%">ACA PLUS VAT 22% €1.403,00 EUR</option>
-            <option value="COM NO VAT">COM NO VAT €2.000,00 EUR</option>
-            <option value="COM PLUS VAT 22%">COM PLUS VAT 22% €2.440,00 EUR</option>
-        </select>
-      </div>
+    <div class="col-sm-offset-1 col-sm-1">
+        <div class="form-group">
+            <label for="name">Title</label>
+            <input type="text" class="form-control" name="title" id="title" required="">
+        </div>
     </div>
-    <div class="col-sm-offset-1 col-sm-5">
+    <div class="col-sm-4">
         <div class="form-group">
             <label for="name">First Name(s)</label>
             <input type="text" class="form-control" name="name" id="name" required="">
@@ -100,20 +81,58 @@ Speakers and programme agenda are subject to change.
             <input type="text" class="form-control" name="surname" id="surname" required="">
         </div>
     </div>
+    <div class="col-sm-offset-1 col-sm-5">
+      <div class="form-group">
+        <label for="position">Career Stage / Position</label>
+        <select class="form-control" name="position" id="position">
+        <option>Undergraduate Student</option>
+        <option>Postgraduate Student</option>
+        <option>Postdoc</option>
+        <option>Staff Scientist</option>
+        <option>Medical Doctor</option>
+        <option>Principle Investigator</option>
+        <option>Other</option>
+        </select>
+      </div>
+    </div>
+    <div class="col-sm-5">
+      <div class="form-group">
+        <label for="email">Affiliation or Organisation</label>
+        <input type="text" class="form-control" name="affiliation" id="affiliation" required="">
+      </div>
+    </div>
     <div class="col-sm-offset-1 col-sm-10">
       <div class="form-group">
-        <label for="email">Your Email</label>
+        <label for="address">Postal Address</label>
+        <input type="text" class="form-control" name="address" id="address" required="">
+      </div>
+    </div>
+    <div class="col-sm-offset-1 col-sm-5">
+      <div class="form-group">
+        <label for="email">Email Address</label>
         <input type="text" class="form-control" name="email" id="email" required="">
       </div>
     </div>
-    <div class="col-sm-12 text-center">
-      <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Proceed To PayPal</button>
+    <div class="col-sm-5">
+      <div class="form-group">
+        <label for="phone">Telephone Number (not required)</label>
+        <input type="text" class="form-control" name="phone" id="phone">
+      </div>
     </div>
-    <!--<div class="col-sm-12 text-center">
-    <p><input name="currency_code" type="hidden" value="EUR"><br>
-        <input alt="PayPal – The safer, easier way to pay online!" name="submit"                 src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_buynowCC_LG.gif" type="image"><br>
-        <img src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" alt="" width="1" height="1" border="0" c275le4nc=""></p>
-        </div>
-  </div>-->
+    <div class="col-sm-offset-1 col-sm-5">
+      <div class="form-group">
+        <label for="email">Dietary Requirements (leave blank if none)</label>
+        <input type="text" class="form-control" name="diet" id="diet">
+      </div>
+    </div>
+    <div class="col-sm-5">
+      <div class="form-group">
+        <label for="vat">VAT Number (only required if you need this on the invoice)</label>
+        <input type="text" class="form-control" name="vat" id="vat">
+      </div>
+    </div>
+    <div class="col-sm-12 text-center">
+      <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Submit Registration</button>
+    </div>
 </form>
 

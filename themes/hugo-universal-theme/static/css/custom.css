@@ -8,3 +8,17 @@
 .box-simple {
   min-height: 230px;
 }
+
+#footer {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+
+table.programme {
+    width: 850px;
+}
+
+p {
+    font-size: 1.2em;
+}
