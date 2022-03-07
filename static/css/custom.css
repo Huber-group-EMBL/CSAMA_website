@@ -25,3 +25,8 @@ th, td {
 p {
     font-size: 1.1em;
 }
+
+.form-group-paypal {
+    max-width: 750px;
+    margin: 0 auto;
+}
