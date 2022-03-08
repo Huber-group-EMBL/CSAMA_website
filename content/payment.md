@@ -4,7 +4,7 @@ title = "Payment"
 
 Thank you for your registration.  Your place on the course is only confirmed once the payment has been made.  
 
-Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or an insitutional account.
+Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.
 
 Then select the type of registration you require from the options below.
 
@@ -19,8 +19,8 @@ Then select the type of registration you require from the options below.
           <div class="form-group-paypal">
           <label for="item-options">Registration Type</label>
           <select id="item-options" class="form-control">
-            <option value="Junior" price="1">Junior Researcher - 1 EUR</option>
-            <option value="Academic" price="5">Academic / Non-profit - 5 EUR</option>
+            <option value="Junior Researcher" price="1">Junior Researcher - 1 EUR</option>
+            <option value="Academic / Non-Profit" price="5">Academic / Non-profit - 5 EUR</option>
             <option value="Commercial" price="10">Commercial - 10 EUR</option>
           </select>
           </div>

@@ -1,3 +1,7 @@
 [build.environment]
   HUGO_VERSION = "0.92.1"
 
+[[headers]]
+  for = "/payment"
+  [headers.values]
+    X-Robots-Tag = "noindex"
