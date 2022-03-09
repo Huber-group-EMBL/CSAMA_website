@@ -8,114 +8,20 @@ Please ensure that you provide the name of the person attending the course in th
 
 Then select the type of registration you require from the options below.
 
-<div id="smart-button-container">
-      <div style="text-align: center;">
-        <div style="margin-bottom: 1.25rem;">
-          <p></p>
-          <div class="form-group-paypal">
-          <label for="name">Name of course attendee</label>
-          <input type="text" class="form-control" name="name" id="name" required=""><p></p>
-          </div>
-          <div class="form-group-paypal">
-          <label for="item-options">Registration Type</label>
-          <select id="item-options" class="form-control">
-            <option value="Junior Researcher" price="1">Junior Researcher - 1 EUR</option>
-            <option value="Academic / Non-Profit" price="5">Academic / Non-profit - 5 EUR</option>
-            <option value="Commercial" price="10">Commercial - 10 EUR</option>
-          </select>
-          </div>
-          <select style="visibility: hidden" id="quantitySelect"></select>
-        </div>
-      <div id="paypal-button-container"></div>
-      </div>
-    </div>
-<script src="https://www.paypal.com/sdk/js?client-id=AdXfnDP1Kqq46-SFtnWTuSkgwC9T1TXN252zv0TEcCLOEWJ2WHOfyXLz3AS-lpjLRdqD5XW5H8A4ccEJ&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
-    
-<script>
-  function initPayPalButton() {
-    var shipping = 0;
-    var itemOptions = document.querySelector("#smart-button-container #item-options");
-    var quantity = parseInt();
-    var quantitySelect = document.querySelector("#smart-button-container #quantitySelect");
-    var attendeeName = document.getElementById('name');
-    if (!isNaN(quantity)) {
-      quantitySelect.style.visibility = "visible";
-    }
-    var orderDescription = '';
-    if(orderDescription === '') {
-      orderDescription = 'CSAMA registration for ';
-    }
-    paypal.Buttons({
-      style: {
-        shape: 'rect',
-        color: 'blue',
-        layout: 'vertical',
-        label: 'pay',
-      },
-      createOrder: function(data, actions) {
-        var attendee = attendeeName.value;
-            console.log(attendee);
-        var selectedItemDescription = itemOptions.options[itemOptions.selectedIndex].value;
-        var selectedItemPrice = parseFloat(itemOptions.options[itemOptions.selectedIndex].getAttribute("price"));
-        var tax = (0 === 0 || false) ? 0 : (selectedItemPrice * (parseFloat(0)/100));
-        if(quantitySelect.options.length > 0) {
-          quantity = parseInt(quantitySelect.options[quantitySelect.selectedIndex].value);
-        } else {
-          quantity = 1;
-        }
-        tax *= quantity;
-        tax = Math.round(tax * 100) / 100;
-        var priceTotal = quantity * selectedItemPrice + parseFloat(shipping) + tax;
-        priceTotal = Math.round(priceTotal * 100) / 100;
-        var itemTotalValue = Math.round((selectedItemPrice * quantity) * 100) / 100;
-        return actions.order.create({
-          purchase_units: [{
-            description: orderDescription + attendee,
-            amount: {
-              currency_code: 'EUR',
-              value: priceTotal,
-              breakdown: {
-                item_total: {
-                  currency_code: 'EUR',
-                  value: itemTotalValue,
-                },
-                shipping: {
-                  currency_code: 'EUR',
-                  value: shipping,
-                },
-                tax_total: {
-                  currency_code: 'EUR',
-                  value: tax,
-                }
-              }
-            },
-            items: [{
-              name: selectedItemDescription,
-              unit_amount: {
-                currency_code: 'EUR',
-                value: selectedItemPrice,
-              },
-              quantity: quantity
-            }]
-          }]
-        });
-      },
-      onApprove: function(data, actions) {
-        return actions.order.capture().then(function(orderData) {
-          // Full available details
-          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
-          // Show a success message within this page, e.g.
-          const element = document.getElementById('paypal-button-container');
-          //element.innerHTML = '';
-          //element.innerHTML = '<h3>Thank you for your payment!</h3>';
-          // Or go to another URL:  actions.redirect('thank_you.html');
-          actions.redirect('/success/');
-        });
-      },
-      onError: function(err) {
-        console.log(err);
-      },
-    }).render('#paypal-button-container');
-  }
-  initPayPalButton();
-</script>
+<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="32AA6XBGPYYTS">
+<table>
+<tr><td><input class="form-control" type="hidden" name="on0" value="CSAMA 2022 TEST">CSAMA 2022 TEST</td></tr>
+<tr><td><select name="os0" class="form-control">
+	<option value="Option 1 - senior">Option 1 - senior €1,00 EUR</option>
+	<option value="Option 2 - student">Option 2 - student €1,00 EUR</option>
+	<option value="Option 3 - industry">Option 3 - industry €1,00 EUR</option>
+</select> </td></tr>
+<tr><td><input type="hidden" name="on2" value="Thank you TEST">Thank you TEST</td></tr>
+<tr><td><input type="text" name="os2" maxlength="200" class="form-control"></td></tr>
+</table>
+<input type="hidden" name="currency_code" value="EUR">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>

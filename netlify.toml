@@ -5,3 +5,9 @@
   for = "/payment"
   [headers.values]
     X-Robots-Tag = "noindex"
+  for = "/success"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+  for = "/cancellation"
+  [headers.values]
+    X-Robots-Tag = "noindex"
