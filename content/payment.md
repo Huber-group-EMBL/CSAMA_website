@@ -6,7 +6,32 @@ Thank you for your registration.  Your place on the course is only confirmed onc
 
 Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.
 
-Then select the type of registration you require from the options below.
+Then select the type of registration you require from the available options.
+
+<table id="fees">
+<tbody>
+<tr>
+<th width="40%">Category</th>
+<th width="30%">Course Fee</th>
+</tr>
+<tr>
+<td><b>JUN</b> (Junior researchers)<br>
+<small>Graduate students and postdocs</small></td>
+<td>1037 €</td>
+</tr>
+<tr>
+<td><b>ACA</b> (Academic/non-profit)<br>
+<small>Researchers from academic and other non-profit institutions</small></td>
+<td>1403 €</td>
+</tr>
+<tr>
+<td><b>COM</b> (Commercial)<br>
+<small>Researchers from the commercial sector<br>
+</small></td>
+<td>2440 €</td>
+</tr>
+</tbody>
+</table>
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
