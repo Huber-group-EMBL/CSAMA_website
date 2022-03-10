@@ -6,7 +6,7 @@ Thank you for your registration.  Your place on the course is only confirmed onc
 
 Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.
 
-Then select the type of registration you require from the available options.
+Then select the type of registration you require from the dropdown list.  As a reminder the three categories of registration are listed below.
 
 <table id="fees">
 <tbody>
