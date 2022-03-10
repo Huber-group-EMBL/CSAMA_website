@@ -2,6 +2,6 @@
   HUGO_VERSION = "0.92.1"
 
 [[headers]]
-  for = ["/payment", "/success", "/cancellation"]
+  for = "/payment" "/success" "/cancellation"
   [headers.values]
     X-Robots-Tag = "noindex"
