@@ -8,6 +8,8 @@ Please ensure that you provide the name of the person attending the course in th
 
 Then select the type of registration you require from the options below.
 
+
+
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div style="margin-bottom: 1.25rem;">

@@ -8,30 +8,7 @@ Please ensure that you provide the name of the person attending the course in th
 
 Then select the type of registration you require from the dropdown list.  As a reminder the three categories of registration are listed below.
 
-<table id="fees">
-<tbody>
-<tr>
-<th width="40%">Category</th>
-<th width="30%">Course Fee</th>
-</tr>
-<tr>
-<td><b>JUN</b> (Junior researchers)<br>
-<small>Graduate students and postdocs</small></td>
-<td>1037 €</td>
-</tr>
-<tr>
-<td><b>ACA</b> (Academic/non-profit)<br>
-<small>Researchers from academic and other non-profit institutions</small></td>
-<td>1403 €</td>
-</tr>
-<tr>
-<td><b>COM</b> (Commercial)<br>
-<small>Researchers from the commercial sector<br>
-</small></td>
-<td>2440 €</td>
-</tr>
-</tbody>
-</table>
+{{< feeTable >}}
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">

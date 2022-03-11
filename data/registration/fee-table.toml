@@ -1,0 +1,10 @@
+[table]
+  [[row]]
+  data = ["Registration Type", "Description", "Course Fee"]
+  [[row]]
+  data = ["Junior Researcher", "Undergraduate or postgraduate students, and postdocs", "1037 €"]
+  [[row]]
+  data = ["Academic / Non-profit", "Researchers from academic and other non-profit institutions", "1403 €"]
+  [[row]]
+  data = ["Industry", "Researchers from the commercial sector", "2440 €"]
+  
