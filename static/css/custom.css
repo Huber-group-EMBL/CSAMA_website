@@ -13,6 +13,10 @@ table.programme {
     width: 100%;
 }
 
+table.fees {
+    margin-bottom: 20px;
+}
+
 #fees {
     padding-bottom: 20px;
     display: flex;
@@ -29,4 +33,28 @@ p {
 .form-group-paypal {
     max-width: 750px;
     margin: 0 auto;
+}
+
+.sponsors {
+  padding: 0;
+  margin-bottom: 40px;
+}
+.sponsors .item {
+  list-style-type: none;
+  text-align: center;
+  margin: 0 20px;
+}
+.sponsors .item img {
+  display: inline-block;
+}
+.sponsors .item img:hover {
+  max-width: auto;
+  filter: none;
+  -webkit-filter: none;
+}
+
+
+.owl-wrapper{
+    display: flex !important;
+    align-items: center;
 }

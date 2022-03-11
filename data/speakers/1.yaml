@@ -1,4 +1,5 @@
-text: "<div style='width: 50%; float: left; margin-top: -20px'>
+text: "
+<div style='width: 50%; float: left; margin-top: -20px'>
   <h3>Lecturers</h3>
   <ul>
     <li>Laurent Gatto, UCLouvain</li>
