@@ -4,9 +4,9 @@ title = "Payment"
 
 Thank you for your registration.  Your place on the course is only confirmed once the payment has been made.  
 
-Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.
+Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the three categories of registration are listed below.
 
-Then select the type of registration you require from the dropdown list.  As a reminder the three categories of registration are listed below.
+If you are paying for multiple participants you can add each of them to the basket separately and then proceed with a single payment.
 
 {{< feeTable >}}
 

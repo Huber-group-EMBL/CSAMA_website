@@ -9,6 +9,10 @@
     padding-bottom: 25px;
 }
 
+figure.social {
+    margin-bottom: 20px;
+}
+
 table.programme {
     width: 100%;
 }
