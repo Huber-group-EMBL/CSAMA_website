@@ -9,6 +9,15 @@
     padding-bottom: 25px;
 }
 
+li.person {
+    line-height: 1.5em;
+    font-size: 1.1em;
+}
+
+.name {
+    font-weight: bold;
+}
+
 figure.social {
     margin-bottom: 20px;
 }

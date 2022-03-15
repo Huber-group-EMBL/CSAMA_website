@@ -1,0 +1,55 @@
+{{ if isset .Site.Params "lecturers" }}
+{{ if .Site.Params.lecturers.enable }}
+{{ if gt (len .Site.Data.lecturers) 0 }}
+<style>
+    .bg-white {
+        background:#ffffff !important;
+    }
+    .row.extra-bottom-padding{
+        margin-bottom: 20px;
+    }
+</style>
+<section class="bar background-pentagon no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.lecturers.title }}</h2>
+                </div>
+
+                <div class="row bg-white extra-bottom-padding">
+                    
+                    <div class="col-xs-12 col-sm-6">
+                        <h3>Lecturers</h3>
+                        <ul>
+                        {{ range .Site.Data.lecturers.lecturers.people }}
+                            <li class="person"><span class="name">{{ .name }}</span>, {{ .location }}</li>
+                        {{ end }}
+                        </ul>
+                    </div>
+                    
+                    <div class="col-xs-12 col-sm-6">
+                        <h3>Participating Experts</h3>
+                        <ul>
+                        {{ range .Site.Data.lecturers.experts.people }}
+                            <li class="person"><span class="name">{{ .name }}</span>, {{ .location }}</li>
+                        {{ end }}
+                        </ul>
+                        
+                        <h3>Teaching Assistants</h3>
+                        <ul>
+                        {{ range .Site.Data.lecturers.assistants.people }}
+                            <li class="person"><span class="name">{{ .name }}</span>, {{ .location }}</li>
+                        {{ end }}
+                        </ul>
+                    </div>
+
+          
+                </div>
+            </div>
+        </div>
+</section>
+<!-- /.bar -->
+{{ end }}
+{{ end }}
+{{ end }}

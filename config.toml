@@ -177,13 +177,17 @@ paginate = 50
     # For more informtion take a look at the README.
 
 [params.speakers]
-    enable = true
+    enable = false
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/speakers'.
     # For more informtion take a look at the README.
     title = "Speakers"
     # subtitle = "Confirmed speakers"
 
+[params.lecturers]
+    enable = true
+    title = "Speakers"
+    
 [params.overview]
     enable = true
     title = "Overview"

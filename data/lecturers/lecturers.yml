@@ -1,0 +1,10 @@
+people:
+- {name: Laurent Gatto, location: UCLouvain}
+- {name: Robert Gentleman, location: Center for Computational Biomedicine, Harvard Medical School}
+- {name: Wolfgang Huber, location: EMBL Heidelberg}
+- {name: Katharina Imkeller, location: Neurological Insitute / Edinger Institute, Universitätsklinikum Frankfurt}
+- {name: Johannes Rainer, location: European Academy of Bozen}
+- {name: Davide Risso, location: University of Padova}
+- {name: Lori Shepherd, location: Roswell Park Comprehensive Cancer Center, Buffalo}
+- {name: Charlotte Soneson, location: Friedrich Miescher Institute for Biomedical Research, Basel}
+- {name: Britta Velten, location: DKFZ Heidelberg}
