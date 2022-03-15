@@ -218,7 +218,7 @@ description = "Programme of events"
 <tr>
 <td>14:00–22:30</td>
 <td>&nbsp;</td>
-<td>Social programme: <a href="#social_programme" data-scroll-to="#social_programme">excursion to the mountains, dinner</a></td>
+<td>Social programme: <a href="{{< relref "about.md#social" >}}">excursion to the mountains, dinner</a></td>
 </tr>
 </tbody>
 </table>

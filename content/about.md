@@ -39,7 +39,7 @@ You will work on the labs at your own pace in small groups with expert guidance 
 
 Participants are required to bring their own laptop with the most recent release versions of R and Bioconductor installed: R-4.2.x and Bioconductor 3.15 installed (details will be provided). Please make sure that your computer’s hardware is sufficiently powered (>=8 GB RAM, >20 GB free disk space) and that you have administrator rights. Please set up your computer beforehand; internet connections at the course venue can be slow and unreliable.
 
-## Social Programme
+## Social Programme {#social}
 
 One of the afternoons is for a joint cultural and outdoors activity. We plan a trip into the mountains with a (light) walk in the high-alpine area, weather permitting, and delicious local dinner.
 

@@ -1,6 +1,6 @@
-# Bioconductor conference template web site
+# CSAMA 2022 Course Website
 
-This repository contains material for the Bioconductor annual conference. View example at https://bioc2021.bioconductor.org/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioC2020)
+This repository contains material for the CSAMA 2022 course. View example at https://csama2022.bioconductor.eu/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioC2020)
 
 1. Make sure [Hugo is installed](https://gohugo.io/getting-started/installing/). Check hugo version
 
@@ -27,12 +27,3 @@ and view the results at http://localhost:1313/
 
 Created using modified [hugo-universal-theme](https://github.com/devcows/hugo-universal-theme). See the [demo web site](https://themes.gohugo.io/theme/hugo-universal-theme/), the original [github repository](https://github.com/devcows/hugo-universal-theme) and the [exampleSite files](https://github.com/devcows/hugo-universal-theme/tree/master/exampleSite). Template by [Bootstrapious](https://bootstrapious.com/p/universal-business-e-commerce-template). Ported to Hugo by [DevCows](https://github.com/devcows/hugo-universal-theme). The theme is added as selected files, not as a submodule, for easier modification.
 
-# ToDo/Help wanted
-
-- Make partials for current news. Currently, they are added directly to `layouts/index.html`
-
-- Make schedule as a partial, populated from `config.toml`. Example - [hugo-conference](https://themes.gohugo.io/hugo-conference/) theme.
-
-## New template
-
-[gdg-x/zeppelin](https://github.com/gdg-x/zeppelin) - original conference template, [GDG DevFest](http://gdg-x.github.io/zeppelin/) - demo web site. [bcc2020/bcc2020.github.io](https://github.com/bcc2020/bcc2020.github.io) - modified conference template for the [BCC2020](https://bcc2020.github.io/) conference
