@@ -17,6 +17,14 @@ In order to register, each participant needs to fill in the form below and compl
 
 If you are unsure about which category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at simone.bell(at)embl.de.
 
+If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at simone.bell(at)embl.de.
+
+**NOTE:** If you pay through PayPal from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “Should I pay the VAT” section.
+
+Italian participants payed by Italian institutions (PA) or private companies, should ask for the “fattura elettronica” unless they pay on a personal basis.
+
+If you are uncertain about the payment, please contact us at simone.bell(at)embl.de and we will guide you through registration.
+
 ### Cancellation and Refund policy:
 
 Cancellation of registration must be submitted in writing or via email and is valid only with acknowledgement of receipt.

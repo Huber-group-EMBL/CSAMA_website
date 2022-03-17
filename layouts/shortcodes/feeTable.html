@@ -11,10 +11,12 @@
             <th>{{ index $r 0 }}</th>
             <th>{{ index $r 1 }}</th>
             <th>{{ index $r 2 }}</th>
+            <th>{{ index $r 3 }}</th>
         {{ else }}
             <td>{{ index $r 0 }}</td>
             <td>{{ index $r 1 }}</td>
             <td>{{ index $r 2 }}</td>
+            <td>{{ index $r 3 }}</td>
         {{ end }}
         </tr>
         {{ $.Scratch.Add "count" 1 }}
