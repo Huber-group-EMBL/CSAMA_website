@@ -99,16 +99,22 @@ Speakers and programme agenda are subject to change.
         <input type="text" class="form-control" name="phone" id="phone">
       </div>
     </div>
-    <div class="col-sm-offset-1 col-sm-5">
+    <div class="col-sm-offset-1 col-sm-4">
       <div class="form-group">
         <label for="diet">Dietary Requirements (leave blank if none)</label>
         <input type="text" class="form-control" name="diet" id="diet">
       </div>
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-4">
       <div class="form-group">
         <label for="vat">VAT Number (only required if you need this on the invoice)</label>
         <input type="text" class="form-control" name="vat" id="vat">
+      </div>
+    </div>
+    <div class="col-sm-2">
+      <div class="form-group">
+        <label for="pay-bank-transfer">Pay by bank transfer</label>
+        <input type="checkbox" class="form-control" id="pay-bank-transfer" name="pay-bank-transfer">
       </div>
     </div>
     <div class="col-sm-12 text-center">

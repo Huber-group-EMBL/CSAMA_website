@@ -2,9 +2,9 @@
 title = "Payment"
 +++
 
-Thank you for your registration.  Your place on the course is only confirmed once the payment has been made.  
+Thank you for your registration.  Your place on the course is only confirmed once the payment has been made.  You can do this either via the Paypal button below or via bank transfer.
 
-Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the three categories of registration are listed below.
+Please ensure that you provide the name of the person attending the course in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at simone.bell(at)embl.de.
 
 If you are paying for multiple participants you can add each of them to the basket separately and then proceed with a single payment.
 
@@ -31,3 +31,22 @@ If you are paying for multiple participants you can add each of them to the bask
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
+
+### Should I pay VAT?
+
+Due to Italian regulation (DPR 663/72 art.7) and EU fiscal regulations, the total cost for the participant attending this course has to include VAT (IVA in italian) of 22%. This rule applies to all “entities”: profit and non-profit companies and/or institutions and citizens even when special fiscal treatments exist in the original country of the “entity” unless your company or institution is registered into the VIES system.
+
+**Please note:** if you pay on behalf of your organization as a private citizen, i.e. from your personal bank account, then you have to add VAT anyway even if your organization is registered into the VIES system (as VAT is calculated for the actual “payer/buyer”). In this case it is better to ask us before paying.
+
+To know about your VIES status, please follow the steps below:
+
+### VIES Verification
+
+To check your VIES status, follow these steps:
+
+1. Ask your administration for the VAT number
+2. Go to this web page http://ec.europa.eu/taxation_customs/vies/?locale=en
+3. Select your country from the top-down menu
+4. Put the VAT number (without the country code) and press the button “verify”
+5. Email the output of the above screen along with your complete data to simone.bell[at]embl.de and ask us to invoice your company/institution
