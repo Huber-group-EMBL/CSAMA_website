@@ -1,4 +1,5 @@
 people:
-- {name: Simone Bell, location: EMBL Heidelberg}
-- {name: Mike Smith, location: EMBL Heidelberg}
-
+- {name: Constantin Ahlmann-Eltze, location: EMBL Heidelberg, initials: CAE}
+- {name: Simone Bell, location: EMBL Heidelberg, initials: SB}
+- {name: Julia Philipp, location: EMBL Heidelberg, initials: JP}
+- {name: Mike Smith, location: EMBL Heidelberg, initials: MS}
