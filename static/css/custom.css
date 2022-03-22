@@ -16,10 +16,15 @@ li.person {
 
 .name {
     font-weight: bold;
+    white-space: nowrap;
 }
 
 figure.social {
     margin-bottom: 20px;
+}
+
+figure.social img {
+    max-width: 100%;
 }
 
 table.programme {

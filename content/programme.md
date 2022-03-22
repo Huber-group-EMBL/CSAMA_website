@@ -70,10 +70,6 @@ description = "Programme of events"
 <td><strong>Flashlight talks</strong></td>
 <td>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 </td>
 </tr>
@@ -91,18 +87,12 @@ description = "Programme of events"
 <td>20:30–21:15</td>
 <td>&nbsp;</td>
 <td><ul>
-<li></li>
-<li></li>
 </ul></td>
 </tr>
 <tr>
 <td>21:15–22:00</td>
 <td>Discussion sessions</td>
 <td><ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul></td>
 </tr>
 </tbody>
@@ -149,10 +139,6 @@ description = "Programme of events"
 <td><strong>Flashlight talks</strong></td>
 <td>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 </td>
 </tr>
@@ -169,17 +155,15 @@ description = "Programme of events"
 <tr>
 <td>20:30–21:15</td>
 <td>&nbsp;</td>
-<td><ul>
-<li></li>
-<li></li>
-</ul></td>
+<td>
+<ul>
+</ul>
+</td>
 </tr>
 <tr>
 <td>21:15–22:00</td>
 <td>&nbsp;</td>
 <td><ul>
-<li></li>
-<li></li>
 </ul></td>
 </tr>
 </tbody>
@@ -285,9 +269,6 @@ description = "Programme of events"
 <td><strong>Flashlight talks</strong></td>
 <td>
 <ul>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 </td>
 </tr>
@@ -365,7 +346,7 @@ Each talk 5 min + 2 min questions
 
 ### Lecturers and Teaching Assistants
 
-Simon Anders (SA), Simone Bell (SB), Vincent J. Carey (VJC), Laurent Gatto (LG), Robert Gentleman (RG), Wolfgang Huber (WH), Katharina Imkeller (KI), Martin Morgan (MM), Davide Risso (DR), Mike Smith (MS), Johannes Rainer (JR), Lori Shepherd (LS), Charlotte Soneson (CS).
+{{< lecturersList >}}
 
 </div>
 </div>

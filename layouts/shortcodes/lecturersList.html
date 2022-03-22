@@ -1,0 +1,15 @@
+{{ if gt (len .Site.Data.lecturers) 0 }}
+
+<p class="names-list">
+{{ range .Site.Data.lecturers.lecturers.people }}
+<span class="name">{{ .name }}</span>&nbsp({{ .initials }})
+{{ end }}
+{{ range .Site.Data.lecturers.experts.people }}
+<span class="name">{{ .name }}</span>&nbsp({{ .initials }})
+{{ end }}
+{{ range .Site.Data.lecturers.assistants.people }}
+<span class="name">{{ .name }}</span>&nbsp({{ .initials }})
+{{ end }}
+</p>
+{{ end }}
+

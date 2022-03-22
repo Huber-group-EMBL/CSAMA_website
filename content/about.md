@@ -43,18 +43,14 @@ Participants are required to bring their own laptop with the most recent release
 
 One of the afternoons is for a joint cultural and outdoors activity. We plan a trip into the mountains with a (light) walk in the high-alpine area, weather permitting, and delicious local dinner.
 
-{{< figure src="/img/ross_alm.jpg" alt="The Ross Alm restaurant on Mount Plose" width="450px" class="social">}}
-
-14.00h We meet at “Casa della Gioventù” and walk 1 min to the bus waiting for us in Via Dante.
-
-Please take the underpass to cross “Via Peter Mayr.”
-
-{{< figure src="/img/social-programme-map.png" alt="The way to the bus stop in Via Dante" width="450px" class="social">}}
+{{< figure src="/img/ross_alm.jpg" alt="The Ross Alm restaurant on Mount Plose" width="500px" class="social">}}
 
 ### Timetable
 
 | | |
 | :----- | :--- |
+| **14.00h** | We meet at “Casa della Gioventù” and walk 1 min to the bus waiting for us in Via Dante.  Please take the underpass to cross “Via Peter Mayr.” |
+| | {{< figure src="/img/social-programme-map.png" alt="The way to the bus stop in Via Dante" width="450px" class="social">}} |
 | **14:15h** | The bus leaves towards the cable car for Mount Plose. |
 | **14:45h** | The cable car takes us to the top of Mount Plose in about 20-30 min. |
 | | 45-60 min Hiking to RossAlm at 2200 m altitude. |
