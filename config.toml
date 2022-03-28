@@ -137,7 +137,7 @@ paginate = 50
     contact_form_ajax = false
 
     about_us = "The European Bioconductor Society e.V. is a registered association in Germany created to support Bioconductor's mission to promote open source software in the life sciences and statistics."
-    copyright = "Copyright (c) 2022, European Bioconductor Society e.V."
+    copyright = "Copyright (c) 2022, <a href='https://bioconductor.eu/'>European Bioconductor Society e.V.</a>"
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

@@ -1,3 +1,4 @@
 people:
+#- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Martin Morgan, initials: MM, location: Roswell Park Comprehensive Cancer Center, Buffalo}
 

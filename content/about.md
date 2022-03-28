@@ -63,4 +63,4 @@ One of the afternoons is for a joint cultural and outdoors activity. We plan a t
 - Solid footwear (ideal: hiking shoes or boots)
 - Jacket or warm sweater for the descent (it may get quite fresh)
 
-**Please note:** If you don’t attend the social programme, please let us know at the latest on Monday 20 June via email to simone.bell [at] embl.de
+**Please note:** If you won't attend the social programme, please let us know at the latest on Monday 20 June via email to info[at]bioconductor.eu
