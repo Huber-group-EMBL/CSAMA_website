@@ -10,8 +10,8 @@ To know about your VIES status, please follow the steps below:
 
 To check your VIES status, follow these steps:
 
-1. Ask your administration for the VAT number
-2. Go to this web page http://ec.europa.eu/taxation_customs/vies/?locale=en
-3. Select your country from the top-down menu
-4. Put the VAT number (without the country code) and press the button “verify”
-5. Email the output of the above screen along with your complete data to info[at]bioconductor.eu and ask us to invoice your company/institution
+1. Ask your administration for the VAT number.
+2. Go to the <a href="http://ec.europa.eu/taxation_customs/vies/?locale=en" target="_blank" rel="noopener noreferrer">VIES VAT number validation</a> page.
+3. Select your country from the top-down menu.
+4. Put the VAT number (without the country code) and press the button “verify”.
+5. Email the output of the above screen along with your complete data to info[at]bioconductor.eu and ask us to invoice your company/institution.

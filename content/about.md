@@ -3,9 +3,11 @@ title = "About The Course"
 description = "Details of the course content and structure"
 +++
 
-The course is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows. The four practical sessions of the course will require you to follow and modify scripts in the computer language R. To freshen up your R skills, see below for some links.
+The course is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows. The four practical sessions of the course will require you to follow and modify scripts in the computer language R. 
 
 ## Topics
+
+The course covers a wide range of topics, including but not limited to:
 
 - Introduction to R and Bioconductor
 - The elements of statistics: hypothesis testing, multiple testing, bootstrap and permutation testing, clustering and classification, machine learning, visualisation
