@@ -44,25 +44,27 @@ Speakers and programme agenda are subject to change.
       action="/payment/" 
       data-netlify="true">
   <div class="row">
-    <div class="col-sm-offset-1 col-sm-1">
+    <div class="col-sm-1">
         <div class="form-group">
             <label for="title">Title</label>
             <input type="text" class="form-control" name="title" id="title">
         </div>
     </div>
-    <div class="col-sm-4">
+    <div class="col-sm-5">
         <div class="form-group">
             <label for="name">First Name(s)</label>
             <input type="text" class="form-control" name="name" id="name" required="">
         </div>
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-6">
         <div class="form-group">
             <label for="surname">Surname(s)</label>
             <input type="text" class="form-control" name="surname" id="surname" required="">
         </div>
     </div>
-    <div class="col-sm-offset-1 col-sm-5">
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
       <div class="form-group">
         <label for="position">Career Stage / Position</label>
         <select class="form-control" name="position" id="position">
@@ -77,51 +79,60 @@ Speakers and programme agenda are subject to change.
         </select>
       </div>
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-6">
       <div class="form-group">
         <label for="affiliation">Affiliation or Organisation</label>
         <input type="text" class="form-control" name="affiliation" id="affiliation" required="">
       </div>
     </div>
-    <div class="col-sm-offset-1 col-sm-10">
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
       <div class="form-group">
         <label for="address">Postal Address (for the invoice - include at least street, city, & zip code)</label>
         <input type="text" class="form-control" name="address" id="address" required="">
       </div>
     </div>
-    <div class="col-sm-offset-1 col-sm-5">
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
       <div class="form-group">
         <label for="email">Email Address</label>
         <input type="text" class="form-control" name="email" id="email" required="">
       </div>
     </div>
-    <div class="col-sm-5">
+    <div class="col-sm-6">
       <div class="form-group">
         <label for="phone">Telephone Number (not required)</label>
         <input type="text" class="form-control" name="phone" id="phone">
       </div>
     </div>
-    <div class="col-sm-offset-1 col-sm-4">
+  </div>
+  <div class="row">
+    <div class="col-lg-4 col-md-6">
       <div class="form-group">
-        <label for="diet">Dietary Requirements (leave blank if none)</label>
+        <label for="diet">Dietary Requirements<br/>(leave blank if none)</label>
         <input type="text" class="form-control" name="diet" id="diet">
       </div>
     </div>
-    <div class="col-sm-4">
+    <div class="col-lg-4 col-md-6">
       <div class="form-group">
-        <label for="vat">VAT Number (only required if you need this on the invoice)</label>
+        <label for="vat">VAT Number<br/>(only if you need this on the invoice)</label>
         <input type="text" class="form-control" name="vat" id="vat">
       </div>
     </div>
-    <div class="col-sm-2">
+    <div class="col-lg-4 col-md-6">
       <div class="form-group">
-        <label for="pay-bank-transfer">Pay by bank transfer</label>
+        <label for="pay-bank-transfer">Pay by bank transfer rather than PayPal<br/>(we will send you an invoice with the bank details)</label>
         <input type="checkbox" class="form-control" id="pay-bank-transfer" name="pay-bank-transfer">
       </div>
     </div>
+  </div>
+  <div class="row">
     <div class="col-sm-12 text-center">
       <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Submit Registration</button>
     </div>
+
 </form>
 </div>
 
