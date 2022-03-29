@@ -66,8 +66,9 @@ Speakers and programme agenda are subject to change.
       <div class="form-group">
         <label for="position">Career Stage / Position</label>
         <select class="form-control" name="position" id="position">
-        <option>Undergraduate Student</option>
-        <option>Postgraduate Student</option>
+        <option hidden disabled selected value> -- select an option -- </option>
+        <option>Undergraduate or Masters Student</option>
+        <option>Postgraduate / Predoc Student</option>
         <option>Postdoc</option>
         <option>Staff Scientist</option>
         <option>Medical Doctor</option>
@@ -84,7 +85,7 @@ Speakers and programme agenda are subject to change.
     </div>
     <div class="col-sm-offset-1 col-sm-10">
       <div class="form-group">
-        <label for="address">Postal Address</label>
+        <label for="address">Postal Address (for the invoice - include at least street, city, & zip code)</label>
         <input type="text" class="form-control" name="address" id="address" required="">
       </div>
     </div>
