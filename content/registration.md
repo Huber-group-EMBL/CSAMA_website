@@ -9,7 +9,7 @@ description = "Registration"
 
 The course fees include participation in the lectures, the computer tutorials and all other course events: coffee breaks, buffet lunch (Monday to Friday), Wednesday’s social programme and dinner, course material.
 
-Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 19 May 2022.
+Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 19th May 2022.
 
 In order to register, each participant needs to fill in the form below and complete the payment. Please include your contact email and name. 
 
@@ -19,7 +19,7 @@ If you are unsure about which category you belong to, if you need to pay by mone
 
 If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at info[at]bioconductor.eu.
 
-**NOTE:** If you pay through PayPal from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “[Should I pay the VAT](#VAT)” section.
+**NOTE:** If you pay from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “[Should I pay the VAT](#VAT)” section.
 
 Italian participants payed by Italian institutions (PA) or private companies, should ask for the “fattura elettronica” unless they pay on a personal basis.
 
@@ -41,7 +41,7 @@ Speakers and programme agenda are subject to change.
 <form name="register" 
       method="post" 
       target="_top" 
-      action="/payment/" 
+      action="/registration-success/" 
       data-netlify="true">
   <div class="row">
     <div class="col-sm-1">
