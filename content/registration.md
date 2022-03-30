@@ -98,7 +98,7 @@ Speakers and programme agenda are subject to change.
     <div class="col-sm-6">
       <div class="form-group">
         <label for="email">Email Address</label>
-        <input type="text" class="form-control" name="email" id="email" required="">
+        <input type="email" class="form-control" name="email" id="email" oninput="updateSubject(this.value)" required="">
       </div>
     </div>
     <div class="col-sm-6">
@@ -130,6 +130,7 @@ Speakers and programme agenda are subject to change.
   </div>
   <div class="row">
     <div class="col-sm-12 text-center">
+      <input id="output-email-subject" type="hidden" name="subject" value="">
       <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Submit Registration</button>
     </div>
 
