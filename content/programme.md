@@ -6,7 +6,8 @@ description = "Programme of events"
 <div class="row">
 <div class="col-sm-offset-1 col-sm-10">
 				
-<h2>Sunday, June 19</h2>
+## Sunday, 19th June
+
 <table class="programme">
 <tbody>
 <tr>
@@ -19,7 +20,7 @@ description = "Programme of events"
 </tr>
 </tbody>
 </table>
-<h2>Monday, June 20</h2>
+<h2>Monday, 20th June</h2>
 <table class="programme" width="850px">
 <tbody>
 <tr>
@@ -98,7 +99,8 @@ description = "Programme of events"
 </tbody>
 </table>
 
-<h2>Tuesday, June 21</h2>
+## Tuesday, 21st June
+
 <table class="programme" width="850px">
 <tbody>
 <tr>
@@ -168,7 +170,8 @@ description = "Programme of events"
 </tr>
 </tbody>
 </table>
-<h2>Wednesday, June 22</h2>
+
+<h2>Wednesday, 22nd June</h2>
 <table class="programme">
 <tbody>
 <tr>
@@ -207,7 +210,7 @@ description = "Programme of events"
 </tbody>
 </table>
 
-## Thursday, June 23
+## Thursday, 23rd June
 
 <table class="programme">
 <tbody>
@@ -275,7 +278,7 @@ description = "Programme of events"
 </tbody>
 </table>
 
-## Friday, June 24
+## Friday, 24th June
 
 <table class="programme">
 <tbody>

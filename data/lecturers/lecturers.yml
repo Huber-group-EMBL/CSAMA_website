@@ -1,7 +1,7 @@
 people:
 - {name: Vince Carey, initials: VJC, location: Harvard Medical School}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
-- {name: Wolfgang Huber, initials: WH, location: EMBL Heidelberg}
+- {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
 - {name: Katharina Imkeller, initials: KI, location: Universitätsklinikum Frankfurt}
 - {name: Johannes Rainer, initials: JR, location: European Academy of Bozen}
 - {name: Davide Risso, initials: DR, location: University of Padova}
