@@ -45,6 +45,7 @@ Speakers and programme agenda are subject to change.
       data-netlify="true">
   <div class="row">
     <div class="col-sm-1">
+        <input id="output-email-subject" type="hidden" name="subject" value="">
         <div class="form-group">
             <label for="title">Title</label>
             <input type="text" class="form-control" name="title" id="title">
@@ -130,7 +131,6 @@ Speakers and programme agenda are subject to change.
   </div>
   <div class="row">
     <div class="col-sm-12 text-center">
-      <input id="output-email-subject" type="hidden" name="subject" value="">
       <button type="submit" class="btn btn-template-main"><i class="far fa-envelope"></i>Submit Registration</button>
     </div>
 
