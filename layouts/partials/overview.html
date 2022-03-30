@@ -1,19 +1,13 @@
 {{ if isset .Site.Params "overview" }}
 {{ if .Site.Params.overview.enable }}
-<section class="bar background-image-fixed-2 no-mb color-white text-center">
-    <div class="dark-mask"></div>
+<section class="bar no-mb background-white text-center">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                {{ with .Site.Params.overview.icon }}
-                <div class="icon icon-lg"><i class="{{ .Site.Params.overview.icon }}"></i>
+                <div class="heading text-center">
+                    <h2>{{ .Site.Params.overview.title | markdownify }}</h2>
                 </div>
-                {{ end }}
-                <h3 class="text-uppercase">{{ .Site.Params.overview.title | markdownify }}</h3>
                 <p class="lead">{{ .Site.Params.overview.content | markdownify }}</p>
-                <p class="text-center">
-
-                </p>
             </div>
         </div>
     </div>
