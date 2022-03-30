@@ -83,9 +83,10 @@ paginate = 50
 
 [params]
     author = "European Bioconductor Society e.V."
-    defaultKeywords = ["Bioconductor", "CSAMA", "Bioinformaitcs", "Training"]
+    defaultKeywords = ["Bioconductor", "CSAMA", "Bioinformatics", "Training"]
 
     # Social media
+    defaultDescription = "Statistical Data Analysis for Genome-Scale Biology. 19-24 July 2022, Brixen / Bressanone, Italy"
     default_sharing_image = "img/social_media_image.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -95,7 +96,7 @@ paginate = 50
     copyright = "Copyright (c) 2022, <a href='https://bioconductor.eu/'>European Bioconductor Society e.V.</a>"
 
     # Format dates with Go's time formatting
-    date_format = "January 2, 2006"
+    date_format = "2 January 2006"
 
     logo = "img/EuroBioC-logo.png"
     logo_small = "img/EuroBioC-logo.png"
