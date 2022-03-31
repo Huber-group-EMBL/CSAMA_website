@@ -17,7 +17,7 @@ In order to register, each participant needs to fill in the form below and compl
 
 If you are unsure about which category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at info[at]bioconductor.eu.
 
-If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at info[at]bioconductor.eu.
+If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at {{< cloakemail "info@bioconductor.eu" >}}.
 
 **NOTE:** If you pay from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “[Should I pay the VAT](#VAT)” section.
 
@@ -90,7 +90,7 @@ Speakers and programme agenda are subject to change.
   <div class="row">
     <div class="col-sm-12">
       <div class="form-group">
-        <label for="address">Postal Address (for the invoice - include at least street, city, & zip code)</label>
+        <label for="address">Postal Address (for the invoice - include at least street, city, zip code, & country)</label>
         <input type="text" class="form-control" name="address" id="address" required="">
       </div>
     </div>

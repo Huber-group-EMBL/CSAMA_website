@@ -1,7 +1,7 @@
 #baseurl = "/"
 baseurl = "https://csama2022.bioconductor.eu"
 title = "CSAMA 2022"
-theme = "hugo-universal-theme"
+theme = ["hugo-cloak-email", "hugo-universal-theme"]
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "en"
