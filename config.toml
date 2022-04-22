@@ -91,7 +91,8 @@ paginate = 50
     default_sharing_image = "img/social_media_image.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    # style = "default"
+    style = "green"
 
     about_us = "The European Bioconductor Society e.V. is a registered association in Germany created to support Bioconductor's mission to promote open source software in the life sciences and statistics."
     copyright = "Copyright (c) 2022, <a href='https://bioconductor.eu/'>European Bioconductor Society e.V.</a>"
