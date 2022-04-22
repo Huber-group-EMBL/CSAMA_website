@@ -10,7 +10,7 @@ The course is intended for researchers who have basic familiarity with the exper
 The course covers a wide range of topics, including but not limited to:
 
 - Introduction to R and Bioconductor
-- The elements of statistics: hypothesis testing, multiple testing, bootstrap and permutation testing, clustering and classification, machine learning, visualisation
+- Elements of statistics: visualization, regression, PCA and other low-dimensional embeddings, statistical tests incl. multiple, classification / supervised machine learning
 - RNA-Seq data analysis – bulk and single cell
 - Computing with sequences and genomic intervals
 - Working with annotation – genes, genomic features, variants, transcripts and proteins
@@ -20,7 +20,6 @@ The course covers a wide range of topics, including but not limited to:
 - Experimental design, batch effects and confounding
 - Reproducible research and workflow authoring with R markdown
 - Package development, version control and developer tools
-- Working with large data: performance parallelisation and cloud computing
 
 ## Course Structure
 
@@ -45,7 +44,7 @@ Participants are required to bring their own laptop with the most recent release
 
 One of the afternoons is for a joint cultural and outdoors activity. We plan a trip into the mountains with a (light) walk in the high-alpine area, weather permitting, and delicious local dinner.
 
-{{< figure src="/img/ross_alm.jpg" alt="The Ross Alm restaurant on Mount Plose" width="500px" class="social">}}
+{{< figure src="/img/ross_alm.jpg" alt="The Ross Alm restaurant on Mount Plose" width="800px" class="social">}}
 
 ### Timetable
 
