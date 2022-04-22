@@ -1164,8 +1164,8 @@ fieldset[disabled] .btn-template-primary.active {
   width: 100%;
   height: 100%;
   background: #6aae7a;
-  opacity: 0.4;
-  filter: alpha(opacity=40);
+  opacity: 0.0;                   /* WH 2022-04-22: original value was 0.9 */
+  filter: alpha(opacity=90);      /* WH 2022-04-22: original was 90 */
 }
 .home-carousel .owl-carousel {
   padding-top: 60px;
