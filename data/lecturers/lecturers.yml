@@ -1,6 +1,7 @@
 people:
 - {name: Vince Carey, initials: VJC, location: Harvard Medical School}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
+- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
 - {name: Katharina Imkeller, initials: KI, location: Universitätsklinikum Frankfurt}
 - {name: Johannes Rainer, initials: JR, location: European Academy of Bozen}
