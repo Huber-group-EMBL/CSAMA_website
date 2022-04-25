@@ -11,13 +11,13 @@ The course fees include participation in the lectures, the computer tutorials an
 
 Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 19th May 2022.
 
-In order to register, each participant needs to fill in the form below and complete the payment. Please include your contact email and name. 
+In order to register, each participant needs to fill in the form below and complete the payment. Please include your contact email and name.
 
 ### Before paying:
 
 If you are unsure about which category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at info[at]bioconductor.eu.
 
-If you are unsure about the VAT, please check the section “Should I pay VAT?” below or ask us at {{< cloakemail "info@bioconductor.eu" >}}.
+If you are unsure about the VAT, please check the “[Should I pay the VAT](#VAT)” section below or ask us at {{< cloakemail "info@bioconductor.eu" >}}.
 
 **NOTE:** If you pay from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “[Should I pay the VAT](#VAT)” section.
 
@@ -136,5 +136,10 @@ Speakers and programme agenda are subject to change.
 
 </form>
 </div>
+
+### Stipends for scientist displaced by war
+
+We are grateful to be able to provide a limited number of travel and registration stipends for displaced scientists. Criteria are: displacement from home or workplace due to a war event in the last year, and previous engagement with biostatistics, statistical computing or biological data science, typically evidenced by a degree or job position. Applications satisfying the criteria will be awarded on a first-come-first-serve basis, based on available funding. We will book for you (or if we agree in advance, reimburse) train travel within Europe, accommodation during the course, and registration fee. Please email your CV, a motivation paragraph describing your engagement in this area of science, and a brief summary of your circumstances, to info[at]bioconductor.eu. All information will be treated confidentially.
+
 
 {{% should-i-pay-vat %}}
