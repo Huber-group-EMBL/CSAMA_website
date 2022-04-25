@@ -137,7 +137,7 @@ Speakers and programme agenda are subject to change.
 </form>
 </div>
 
-### Stipends for scientist displaced by war
+### Stipends for scientists displaced by war
 
 We are grateful to be able to provide a limited number of travel and registration stipends for displaced scientists. Criteria are: displacement from home or workplace due to a war event in the last year, and previous engagement with biostatistics, statistical computing or biological data science, typically evidenced by a degree or job position. Applications satisfying the criteria will be awarded on a first-come-first-serve basis, based on available funding. We will book for you (or if we agree in advance, reimburse) train travel within Europe, accommodation during the course, and registration fee. Please email your CV, a motivation paragraph describing your engagement in this area of science, and a brief summary of your circumstances, to info[at]bioconductor.eu. All information will be treated confidentially.
 
