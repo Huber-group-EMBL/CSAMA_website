@@ -36,13 +36,8 @@ About Munich: please do not confuse Munich’s main airport (Franz-Josef Strauss
 
 # Hotel information
 
-You need to make your booking directly. There are many hotels and holiday rental options in Brixen, check the usual websites (booking, tripadvisor, airbnb, fewo-direct, ...). Many of the course organisers and participants will be in the following places, which are short walking distance from the course venue and Brixen downtown (in general, Brixen is very compact and walkable):
+You need to make your booking directly. There are many hotels and holiday rental options in Brixen, check the usual websites ([S&uuml;dtirol Info](https://www.suedtirol.info/en/accommodation/accommodation-search), booking, tripadvisor, airbnb, fewo-direct, ...). There is also a centrally located [Youth Hostel](https://www.jugendherberge.bz/en/bressanone/youth-hostel). Many of the course organisers and participants will be in the following places, which are short walking distance from the course venue and Brixen downtown (in general, Brixen is very compact and walkable):
 
  - Hotel Gruener Baum (Albero Verde)
  - Hotel Goldene Krone
  - Hotel Elephant
-
-### Other accommodation
-There also exist two youth hostel-like accommodations. These locations have low fares, and they can be considered as equivalent both for quality and location (Brixen is a small town). Please ask directly them if you need rooms (with or without bath, etc).
-
-Youth Hostel Bressanone. Ph: +39 0472 279 999, Fax: +39 0472 279 998.
