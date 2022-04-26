@@ -20,12 +20,12 @@ The train from Verona P.ta Nuova to Bressanone takes about 2 hours, with frequen
 
 # By Airplane
 
-Several airports have good train connections to Bressanone:
+Several airports have reasonable train connections to Bressanone:
 
 - Bolzano, Italy (BZO) 50 km (30 minutes by train)
-- Innsbruck, Austria (INN) 80 km (1 hours by train)
+- Innsbruck, Austria (INN) 80 km (1 hour by train)
 - Verona, Italy (Valerio Catullo, VRN) 200 km
-- Munich, Germany (Franz-Josef Strauss, MUC) 260 km
+- Munich, Germany (Franz-Josef Strauss, MUC) 260 km (4 hours by train)
 - Venezia, Italy (Marco Polo, VCE) 320 km
 - Milano-Linate, Italy (LIN) 330 km
 - Milano-Malpensa, Italy (MXP) 350 km
