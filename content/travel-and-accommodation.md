@@ -12,7 +12,7 @@ Bressanone (or Brixen) is in the bilingual province of Bolzano (Bozen) at 500 me
 
 Bressanone is on the international line between Munich (Germany) and Verona (Italy). Every train on this line stops in Bressanone. Moreover, there are many commuter connections from Innsbruck (Austria) and from Bolzano (Italy) to Bressanone.
 
-The train from Verona P.ta Nuova to Bressanone takes about 2 hours, with frequent connections throughout the day. The train from Munich takes about 3.5 hours, with connections every 2 hours.
+The train from Verona P.ta Nuova to Bressanone takes about 2 hours, with frequent connections throughout the day. The train from Munich takes about 4 hours, with connections every 2 hours.
 
 [Italian railways](https://www.trenitalia.com/en.html) --
 [German railways](https://www.bahn.com/en) --
