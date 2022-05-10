@@ -37,6 +37,9 @@ Speakers and programme agenda are subject to change.
 
 ## Register interest
 
+**CSAMA 2022 is now fully booked and general registration is closed.**
+
+<!--
 <div class="container">
 <form name="register" 
       method="post" 
@@ -136,6 +139,7 @@ Speakers and programme agenda are subject to change.
 
 </form>
 </div>
+-->
 
 ### Stipends for scientists displaced by war
 
