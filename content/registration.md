@@ -37,7 +37,7 @@ Speakers and programme agenda are subject to change.
 
 ## Register interest
 
-**CSAMA 2022 is now fully booked and general registration is closed.**  A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.
+**CSAMA 2022 is now fully booked and general registration is closed.**  <!--A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.-->
 
 <!--
 <div class="container">
@@ -141,9 +141,10 @@ Speakers and programme agenda are subject to change.
 </div>
 -->
 
+<!--
 ### Stipends for scientists displaced by war
 
 We are grateful to be able to provide a limited number of travel and registration stipends for displaced scientists. Criteria are: displacement from home or workplace due to a war event in the last year, and previous engagement with biostatistics, statistical computing or biological data science, typically evidenced by a degree or job position. Applications satisfying the criteria will be awarded on a first-come-first-serve basis, based on available funding. We will book for you (or if we agree in advance, reimburse) train travel within Europe, accommodation during the course, and registration fee. Please email your CV, a motivation paragraph describing your engagement in this area of science, and a brief summary of your circumstances, to info[at]bioconductor.eu. All information will be treated confidentially.
-
+-->
 
 {{% should-i-pay-vat %}}
