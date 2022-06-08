@@ -26,12 +26,12 @@ description = "Programme of events"
 <tr>
 <td width="100ex">08:30–09:15</td>
 <td width="90ex"><strong>Lecture 01</strong></td>
-<td></td>
+<td>Introduction to Bioconductor (MM)</td>
 </tr>
 <tr>
 <td>09:15–10:00</td>
 <td><strong>Lecture 02</strong></td>
-<td></td>
+<td>PCA and other low-dimensional embeddings I (LW)</td>
 </tr>
 <tr bgcolor="#eeeeee">
 <td>10:00–10:30</td>
