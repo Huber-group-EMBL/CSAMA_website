@@ -71,6 +71,10 @@ description = "Programme of events"
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
+					<li>Christian Scherhäufl</li>
+					<li>Luis Manuel Cervera Seco</li>
+					<li>Kai Faehrmann</li>
+					<li>Albert Fradera Sola</li>
 				</ul>
 			</td>
 		</tr>
@@ -146,6 +150,10 @@ description = "Programme of events"
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
+					<li>Daniel Fridljand</li>
+					<li>Anže Lovše</li>
+					<li>Martín González</li>
+					<li>Stephan Drothler</li>
 				</ul>
 			</td>
 		</tr>
