@@ -59,12 +59,12 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–15:00</td>
 			<td><strong>Lab 1</strong></td>
-			<td></td>
+			<td>R and Bioconductor Basics</td>
 		</tr>
 		<tr>
 			<td>15:00–16:30</td>
 			<td><strong>Lab 2</strong></td>
-			<td></td>
+			<td>R and Bioconductor Basics</td>
 		</tr>
 		<tr>
 			<td>16:30–17:00</td>
@@ -134,7 +134,12 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 3</strong></td>
-			<td></td>
+			<td>End-to-end RNA-Seq workflow (CS)</td>
+		</tr>
+		<tr>
+			<td>13:30–16:30</td>
+			<td><strong>Lab 4</strong></td>
+			<td>Proteomics (LG,JR)</td>
 		</tr>
 		<tr>
 			<td>16:30–17:00</td>
@@ -249,23 +254,28 @@ description = "Programme of events"
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
-			<td><strong>Lab 4</strong></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>13:30–16:30</td>
 			<td><strong>Lab 5</strong></td>
-			<td></td>
+			<td>Single-cell transcriptomics (DR)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 6</strong></td>
-			<td></td>
+			<td>Multiple testing and FDR (WH)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
-			<td>&nbsp;</td>
-			<td></td>
+			<td><strong>Lab 7</strong></td>
+			<td>Multimodal data (LW)</td>
+		</tr>
+		<tr>
+			<td>13:30–16:30</td>
+			<td><strong>Lab 8</strong></td>
+			<td>Microbiome data (LW)</td>
+		</tr>
+		<tr>
+			<td>13:30–16:30</td>
+			<td><strong>Lab 9</strong></td>
+			<td>Annotation of untargeted metabolomics data (JR)</td>
 		</tr>
 		<tr>
 			<td>16:30–17:00</td>
@@ -299,41 +309,41 @@ description = "Programme of events"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 19</strong></td>
-			<td></td>
+			<td>TBD</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 20</strong></td>
-			<td></td>
+			<td>TBD</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
-		<tr>
-			<td>13:30–14:00</td>
-			<td>&nbsp;</td>
-			<td></td>
+		<<tr>
+			<td>13:30–16:30</td>
+			<td><strong>Lab 5</strong></td>
+			<td>Single-cell transcriptomics (DR)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>13:30–16:30</td>
+			<td><strong>Lab 6</strong></td>
+			<td>Multiple testing and FDR (WH)</td>
+		</tr>
+		<tr>
+			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td></td>
+			<td>Multimodal data (LW)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
-			<td></td>
+			<td>Microbiome data (LW)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td>14:00–16:30</td>
-			<td><strong>Lab 10</strong></td>
-			<td></td>
+			<td>Annotation of untargeted metabolomics data (JR)</td>
 		</tr>
 		<tr>
 			<td>16:30</td>
