@@ -139,7 +139,7 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 4</strong></td>
-			<td>Proteomics (LG,JR)</td>
+			<td>Proteomics (LG, JR)</td>
 		</tr>
 		<tr>
 			<td>16:30–17:00</td>
@@ -169,7 +169,7 @@ description = "Programme of events"
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
-			<td>&nbsp;</td>
+			<td>Discussion sessions</td>
 			<td><ul>
 			</ul></td>
 		</tr>
@@ -300,7 +300,7 @@ description = "Programme of events"
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 18</strong></td>
-			<td>Immunoinformatics</td>
+			<td>Immunoinformatics (KI)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
