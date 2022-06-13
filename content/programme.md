@@ -26,12 +26,12 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 01</strong></td>
-			<td>Introduction to Bioconductor (MM)</td>
+			<td>Introduction to Bioconductor (Martin Morgan)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 02</strong></td>
-			<td>PCA and other low-dimensional embeddings I (LW)</td>
+			<td>PCA and other low-dimensional embeddings I (Levi Waldron)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -40,12 +40,12 @@ description = "Programme of events"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 03</strong></td>
-			<td>Statistical tests I (WH)</td>
+			<td>Statistical tests I (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 04</strong></td>
-			<td>Regression I (RG)</td>
+			<td>Regression I (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:00</td>
@@ -110,12 +110,12 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 05</strong></td>
-			<td>Basics of RNA-Seq (DR)</td>
+			<td>Basics of RNA-Seq (Davide Risso)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 06</strong></td>
-			<td>Regression II (CS)</td>
+			<td>Regression II (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -124,12 +124,12 @@ description = "Programme of events"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 07</strong></td>
-			<td>Single-cell RNA-Seq (DR)</td>
+			<td>Single-cell RNA-seq (Davide Risso)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 08</strong></td>
-			<td>Distances, nearest-neighbour graphs and clustering (VJC)</td>
+			<td>Distances, nearest-neighbour graphs and clustering (Vincent Carey)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -138,12 +138,12 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 3</strong></td>
-			<td>End-to-end RNA-Seq workflow (CS)</td>
+			<td>End-to-end RNA-Seq workflow (Charlotte Soneson)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 4</strong></td>
-			<td>Proteomics (LG, JR)</td>
+			<td>Single-cell transcriptomics (Davide Risso)</td>
 		</tr>
 		<tr>
 			<td>16:30–17:00</td>
@@ -190,12 +190,12 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 09</strong></td>
-			<td>Human Cell Atlas | Ontologies | Shiny (VCJ)</td>
+			<td>Human Cell Atlas | Ontologies | Shiny (Vincent Carey)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td>Tests II (WH)</td>
+			<td>Statistical tests II (Wolfgang Huber)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -209,7 +209,7 @@ description = "Programme of events"
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 12</strong></td>
-			<td>Annotation Resources (JR)</td>
+			<td>Annotation Resources (Johannes Rainer)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -230,31 +230,31 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 13</strong></td>
-			<td>Data visualization (WH)</td>
+			<td>Visualization (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 14</strong></td>
-			<td>Supervised machine learning (RG)</td>
+			<td>Supervised machine learning (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
 			<td colspan="2"><em>Coffee break</em></td>
 		</tr>
 		<tr>
-			<td>10:30–11:00</td>
+			<td>10:30–11:15</td>
 			<td><strong>Lecture 15</strong></td>
-			<td>Mass spectrometry-based proteomics (LG)</td>
+			<td>Mass spectrometry-based proteomics (Laurent Gatto)</td>
 		</tr>
 		<tr>
 			<td>11:15–11:45</td>
-			<td><strong>Lecture 16</strong></td>
+			<td><strong>Lecture 16.1</strong></td>
 			<td>Mass spectrometry-based metabolomics (JR)</td>
 		</tr>
 		<tr>
 			<td>11:45–12:00</td>
-			<td>&nbsp;</td>
-			<td></td>
+			<td><strong>Lecture 16.2</strong></td>
+			<td>TBC/Emerging topic</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -263,7 +263,7 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Single-cell transcriptomics (DR)</td>
+			<td>Proteomics (LG, JR)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
@@ -303,12 +303,12 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>Regularization, smoothing, and empirical Bayes ideas (RG)</td>
+			<td>Regularization, smoothing, and empirical Bayes ideas (Robert Gentleman)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 18</strong></td>
-			<td>Immunoinformatics (KI)</td>
+			<td>Immunoinformatics (Katharina Imkeller)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -317,12 +317,12 @@ description = "Programme of events"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 19</strong></td>
-			<td>TBD</td>
+			<td>Emerging topic</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 20</strong></td>
-			<td>TBD</td>
+			<td>Emerging topic</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
