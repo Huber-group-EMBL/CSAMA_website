@@ -90,7 +90,7 @@ description = "Programme of events"
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td>&nbsp;</td>
+			<td>Demos</td>
 			<td><ul><li>Interactive exploration and data quality assessment for matrix-shaped data with iSEE (Charlotte Soneson)
 			        <li>Using R/BioC with docker, singularity containers (Martin Morgan, Nitesh Turaga); bulker.io (Levi Waldron)
 			</ul></td>
@@ -170,7 +170,7 @@ description = "Programme of events"
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td>&nbsp;</td>
+			<td>Demos</td>
 			<td>
 			<ul><li>git and GitHub, reproducible research and open science, intro to shiny (Laurent Gatto, Vincent Carey, Charlotte Soneson)
                 <li>GPUs (Martin Morgan, Nitesh Turaga)
