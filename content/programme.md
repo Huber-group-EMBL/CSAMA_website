@@ -1,12 +1,12 @@
 +++
 title = "Programme"
-description = "Programme of events"
+description = "Programme"
 +++
 
 <div class="row">
 <div class="col-sm-offset-1 col-sm-10">
 				
-## Sunday, 19th June
+## Sunday, 19 June
 
 <table class="programme">
 	<tbody>
@@ -61,7 +61,7 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–15:00</td>
 			<td><strong>Lab 1</strong></td>
-			<td>R and Bioconductor Basics</td>
+			<td>R and Bioconductor Basics (Martin Morgan)</td>
 		</tr>
 		<tr>
 			<td>15:00–16:30</td>
@@ -237,31 +237,26 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 13</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
+			<td>Mass spectrometry-based proteomics (Laurent Gatto)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 14</strong></td>
-			<td>Supervised machine learning (Robert Gentleman)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
 			<td colspan="2"><em>Coffee break</em></td>
 		</tr>
 		<tr>
-			<td>10:30–11:15</td>
+			<td>10:30–11:30</td>
 			<td><strong>Lecture 15</strong></td>
-			<td>Mass spectrometry-based proteomics (Laurent Gatto)</td>
+			<td>Supervised machine learning (Robert Gentleman)</td>
 		</tr>
 		<tr>
-			<td>11:15–11:45</td>
-			<td><strong>Lecture 16.1</strong></td>
-			<td>Mass spectrometry-based metabolomics (JR)</td>
-		</tr>
-		<tr>
-			<td>11:45–12:00</td>
-			<td><strong>Lecture 16.2</strong></td>
-			<td>TBC/Emerging topic</td>
+			<td>11:30–12:00</td>
+			<td><strong>Lecture 16</strong></td>
+			<td>Mass spectrometry-based metabolomics (Johannes Rainer)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
