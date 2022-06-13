@@ -26,12 +26,12 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 01</strong></td>
-			<td>Introduction to Bioconductor (Martin Morgan)</td>
+			<td>Introduction to <a href="https://www.bioconductor.org">Bioconductor</a> (Martin Morgan)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 02</strong></td>
-			<td>PCA and other low-dimensional embeddings I (Levi Waldron)</td>
+			<td>PCA and other low-dimensional embeddings (Levi Waldron)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -40,7 +40,7 @@ description = "Programme of events"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 03</strong></td>
-			<td>Statistical tests I (Wolfgang Huber)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Testing.html">Statistical tests I</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -91,7 +91,7 @@ description = "Programme of events"
 		<tr>
 			<td>20:30–21:15</td>
 			<td>Demos</td>
-			<td><ul><li>Interactive exploration and data quality assessment for matrix-shaped data with iSEE (Charlotte Soneson)
+			<td><ul><li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
 			        <li>Using R/BioC with docker, singularity containers (Martin Morgan, Nitesh Turaga); bulker.io (Levi Waldron)
 			</ul></td>
 		</tr>
@@ -125,7 +125,7 @@ description = "Programme of events"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 07</strong></td>
-			<td>Single-cell RNA-seq (Davide Risso)</td>
+			<td>Single-cell RNA-seq: data properties, embeddings (Davide Risso)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -199,7 +199,7 @@ description = "Programme of events"
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td>Statistical tests II (Wolfgang Huber)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Testing.html">Statistical tests II</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -234,7 +234,7 @@ description = "Programme of events"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 13</strong></td>
-			<td>Visualization (Wolfgang Huber)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
@@ -267,27 +267,27 @@ description = "Programme of events"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Proteomics (LG, JR)</td>
+			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 6</strong></td>
-			<td>Multiple testing and FDR (WH)</td>
+			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Multimodal data (LW)</td>
+			<td>Multimodal data (Levy Waldron)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
-			<td>Microbiome data (LW)</td>
+			<td>Microbiome data (Levy Waldron)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
-			<td>Annotation of untargeted metabolomics data (JR)</td>
+			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>16:30–17:00</td>
@@ -332,30 +332,30 @@ description = "Programme of events"
 			<td>12:00–13:30</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
-		<<tr>
+		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Single-cell transcriptomics (DR)</td>
+			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 6</strong></td>
-			<td>Multiple testing and FDR (WH)</td>
+			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Multimodal data (LW)</td>
+			<td>Multimodal data (Levy Waldron)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
-			<td>Microbiome data (LW)</td>
+			<td>Microbiome data (Levy Waldron)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
-			<td>Annotation of untargeted metabolomics data (JR)</td>
+			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>16:30</td>
