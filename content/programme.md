@@ -91,8 +91,8 @@ description = "Programme of events"
 		<tr>
 			<td>20:30–21:15</td>
 			<td>&nbsp;</td>
-			<td><ul><li>Interactive exploration and data quality assessment for matrix-shaped data with iSEE (Charlotte)
-			        <li>Using R/BioC with docker, singularity containers: Martin, Nitesh; bulker.io: Levi
+			<td><ul><li>Interactive exploration and data quality assessment for matrix-shaped data with iSEE (Charlotte Soneson)
+			        <li>Using R/BioC with docker, singularity containers (Martin Morgan, Nitesh Turaga); bulker.io (Levi Waldron)
 			</ul></td>
 		</tr>
 		<tr>
@@ -172,10 +172,10 @@ description = "Programme of events"
 			<td>20:30–21:15</td>
 			<td>&nbsp;</td>
 			<td>
-			<ul><li>git and GitHub, reproducible research and open science, intro to shiny. Laurent, Vincent, Charlotte
-                <li>GPUs: Martin, Nitesh
-                <li>Getting started with Terra/AnVIL: Nitesh, Levi
-                <li>HDF5/large single-cell datasets: Davide 
+			<ul><li>git and GitHub, reproducible research and open science, intro to shiny (Laurent Gatto, Vincent Carey, Charlotte Soneson)
+                <li>GPUs (Martin Morgan, Nitesh Turaga)
+                <li>Getting started with Terra/AnVIL (Nitesh Turaga, Levi Waldron)
+                <li>HDF5/large single-cell datasets (Davide Risso) 
 				</ul>
 			</td>
 		</tr>
