@@ -20,7 +20,9 @@ description = "Programme of events"
 		</tr>
 	</tbody>
 </table>
-<h2>Monday, 20th June</h2>
+
+## Monday, 20 June
+
 <table class="programme" width="850px">
 	<tbody>
 		<tr>
@@ -104,7 +106,7 @@ description = "Programme of events"
 	</tbody>
 </table>
 
-## Tuesday, 21st June
+## Tuesday, 21 June
 
 <table class="programme" width="850px">
 	<tbody>
@@ -188,7 +190,8 @@ description = "Programme of events"
 	</tbody>
 </table>
 
-<h2>Wednesday, 22nd June</h2>
+## Wednesday, 22 June
+
 <table class="programme">
 	<tbody>
 		<tr>
@@ -227,7 +230,7 @@ description = "Programme of events"
 	</tbody>
 </table>
 
-## Thursday, 23rd June
+## Thursday, 23 June
 
 <table class="programme">
 	<tbody>
@@ -300,7 +303,7 @@ description = "Programme of events"
 	</tbody>
 </table>
 
-## Friday, 24th June
+## Friday, 24 June
 
 <table class="programme">
 	<tbody>
