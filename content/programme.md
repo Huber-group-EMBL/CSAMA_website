@@ -277,11 +277,11 @@ description = "Programme"
 			<td><strong>Lab 7</strong></td>
 			<td>Multimodal data (Levy Waldron)</td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
 			<td>Microbiome data (Levy Waldron)</td>
-		</tr>
+		</tr> -->
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
@@ -345,11 +345,11 @@ description = "Programme"
 			<td><strong>Lab 7</strong></td>
 			<td>Multimodal data (Levy Waldron)</td>
 		</tr>
-		<tr>
+		<!-- <tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
 			<td>Microbiome data (Levy Waldron)</td>
-		</tr>
+		</tr> -->
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
