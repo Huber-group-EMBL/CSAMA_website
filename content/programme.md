@@ -211,7 +211,8 @@ description = "Programme"
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>Ranges</td>
+			<td>Group projects (Vincent Carey)</td>
+			<!-- <td>Ranges</td> -->
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -305,7 +306,8 @@ description = "Programme"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>Regularization, smoothing, and empirical Bayes ideas (Robert Gentleman)</td>
+			<!-- <td>Regularization, smoothing, and empirical Bayes ideas (Robert Gentleman)</td> -->
+			<td>Protein interactions (Robert Gentleman)</td> -->
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
@@ -324,7 +326,8 @@ description = "Programme"
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 20</strong></td>
-			<td>Emerging topic</td>
+			<td>Group projects (Vincent Carey)</td>
+			<!-- <td>Emerging topic</td> -->
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
