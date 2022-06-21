@@ -186,11 +186,12 @@ description = "Programme"
 			<td>Group discussion sessions on the lawn / patio</td>
 			<td><ul>
 			<li>... participants suggestions welcome!
-			<li>HDF5 / large datasets
-			<li>Reproducible  research incl. git, docker (Laurent, Nitesh)
-			<li>New / emerging technologies and their data analytical needs
-			<li>Biggests challenges in biological data analysis
-			<li>More on HDF5 / large datasets with Davide
+			<li>Reproducible research and open science (Laurent, Charlotte) 
+			<li>git, docker (Nitesh)
+			<li>HDF5 / large datasets (Davide)
+			<li>Cloud (Martin)
+			<li>New / emerging technologies and their data analytical needs (Wolfgang)
+			<li>Biggests challenges in biological data analysis (Vince)
 			</ul></td>
 		</tr>
 	</tbody>
