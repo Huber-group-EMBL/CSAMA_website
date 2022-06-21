@@ -172,19 +172,25 @@ description = "Programme"
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td>Demos</td>
+			<td>Demos / pitches</td>
 			<td>
-			<ul><li>git and GitHub, reproducible research and open science, intro to shiny (Laurent Gatto, Vincent Carey, Charlotte Soneson)
-                <li>GPUs (Martin Morgan, Nitesh Turaga)
-                <li>Getting started with Terra/AnVIL (Nitesh Turaga, Levi Waldron)
-                <li>HDF5/large single-cell datasets (Davide Risso) 
+			<ul><li>5 min:  Reproducible research and open science (Laurent Gatto, Charlotte Soneson)
+			    <li>10 min: Shiny (Vincent Carey) 
+                <li>10 min: Getting started with cloud computing (Martin Morgan, Nitesh Turaga); GPUs (Nitesh Turaga)
+                <li>10 min: HDF5 / large single-cell datasets (Davide Risso) 
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
-			<td>Discussion sessions</td>
+			<td>Group discussion sessions on the lawn / patio</td>
 			<td><ul>
+			<li>... participants suggestions welcome!
+			<li>HDF5 / large datasets
+			<li>Reproducible  research incl. git, docker (Laurent, Nitesh)
+			<li>New / emerging technologies and their data analytical needs
+			<li>Biggests challenges in biological data analysis
+			<li>More on HDF5 / large datasets with Davide
 			</ul></td>
 		</tr>
 	</tbody>
