@@ -313,8 +313,7 @@ description = "Programme"
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<!-- <td>Regularization, smoothing, and empirical Bayes ideas (Robert Gentleman)</td> -->
-			<td>Protein interactions (Robert Gentleman)</td> -->
+			<td>(Generalized) Linear Models (Robert Gentleman)</td> -->
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
