@@ -283,12 +283,12 @@ description = "Programme"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Multimodal data (Levy Waldron)</td>
+			<td>Multimodal data (Levi Waldron)</td>
 		</tr>
 		<!-- <tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
-			<td>Microbiome data (Levy Waldron)</td>
+			<td>Microbiome data (Levi Waldron)</td>
 		</tr> -->
 		<tr>
 			<td>13:30–16:30</td>
@@ -352,12 +352,12 @@ description = "Programme"
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Multimodal data (Levy Waldron)</td>
+			<td>Multimodal data (Levi Waldron)</td>
 		</tr>
 		<!-- <tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 8</strong></td>
-			<td>Microbiome data (Levy Waldron)</td>
+			<td>Microbiome data (Levi Waldron)</td>
 		</tr> -->
 		<tr>
 			<td>13:30–16:30</td>
