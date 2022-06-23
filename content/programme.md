@@ -21,6 +21,14 @@ description = "Programme"
 	</tbody>
 </table>
 
+<table class="programme" width="850px">
+	<tbody>
+	<tr>
+Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching material - lectures and labs</a>.
+    </tr>
+    </tbody>
+</table>
+	
 ## Monday, 20 June
 
 <table class="programme" width="850px">
