@@ -1,6 +1,6 @@
 #baseurl = "/"
-baseurl = "https://csama2022.bioconductor.eu"
-title = "CSAMA 2022"
+baseurl = "https://csama2023.bioconductor.eu"
+title = "CSAMA 2023"
 theme = ["hugo-universal-theme"]
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -87,7 +87,7 @@ paginate = 50
     defaultKeywords = ["Bioconductor", "CSAMA", "Bioinformatics", "Training"]
 
     # Social media
-    defaultDescription = "Statistical Data Analysis for Genome-Scale Biology. 19-24 July 2022, Brixen / Bressanone, Italy"
+    defaultDescription = "Statistical Data Analysis for Genome-Scale Biology. 11-16 June 2023, Brixen / Bressanone, Italy"
     default_sharing_image = "img/social_media_image.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
@@ -95,7 +95,7 @@ paginate = 50
     style = "green"
 
     about_us = "The European Bioconductor Society e.V. is a registered association in Germany created to support Bioconductor's mission to promote open source software in the life sciences and statistics."
-    copyright = "Copyright (c) 2022, <a href='https://bioconductor.eu/'>European Bioconductor Society e.V.</a>"
+    copyright = "Copyright (c) 2023, <a href='https://bioconductor.eu/'>European Bioconductor Society e.V.</a>"
 
     # Format dates with Go's time formatting
     date_format = "2 January 2006"
