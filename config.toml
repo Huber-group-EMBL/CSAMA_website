@@ -28,13 +28,13 @@ paginate = 50
 [[menu.main]]
     identifier = "programme"
     name = "Programme"
-    url  = "/programme/"
+    url  = "/programme-coming-soon/"
     weight = 3
 
 [[menu.main]]
     identifier="registration"
     name = "Registration"
-    url  = "/registration/"
+    url  = "/registration-coming-soon/"
     weight = 3
 
 [[menu.main]]

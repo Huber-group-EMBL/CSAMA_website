@@ -1,5 +1,5 @@
 people:
 #- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
-- {name: Martin Morgan, initials: MM, location: "Roswell Park Comprehensive Cancer Center"}
-- {name: Levi Waldron, initials: LW, location: CUNY Graduate School of Public Health and Health Policy}
+#- {name: Martin Morgan, initials: MM, location: "Roswell Park Comprehensive Cancer Center"}
+#- {name: Levi Waldron, initials: LW, location: CUNY Graduate School of Public Health and Health Policy}
 

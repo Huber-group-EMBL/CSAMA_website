@@ -1,10 +1,11 @@
 people:
-- {name: Vince Carey, initials: VJC, location: Harvard Medical School}
+#- {name: Vince Carey, initials: VJC, location: Harvard Medical School}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
-- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
+#- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
-- {name: Julia Philipp, location: European Molecular Biology Laboratory, initials: JP}
+#- {name: Julia Philipp, location: European Molecular Biology Laboratory, initials: JP}
+- {name: Mike Love, location:  University of North Carolina at Chapel Hill, initials: ML}
 - {name: Johannes Rainer, initials: JR, location: Eurac Research}
 - {name: Davide Risso, initials: DR, location: University of Padova}
-- {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research, Basel}
+- {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research}
 

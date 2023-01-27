@@ -11,8 +11,8 @@ I like to use Docker to run the local Hugo server and test things locally.
 1. Clone the repository and enter the directory
 
 ```shell
-git clone https://github.com/Huber-group-EMBL/CSAMA2022_website.git
-cd CSAMA2022_website/
+git clone https://github.com/Huber-group-EMBL/CSAMA_website.git
+cd CSAMA_website/
 ```
 
 2. Run the Hugo docker image from https://hub.docker.com/r/klakegg/hugo/
