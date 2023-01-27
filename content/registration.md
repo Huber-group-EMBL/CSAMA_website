@@ -39,7 +39,7 @@ Speakers and programme agenda are subject to change.
 
 **CSAMA 2022 is now fully booked and general registration is closed.**  <!--A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.-->
 
-<!--
+
 <div class="container">
 <form name="register" 
       method="post" 
@@ -139,7 +139,7 @@ Speakers and programme agenda are subject to change.
 
 </form>
 </div>
--->
+
 
 <!--
 ### Stipends for scientists displaced by war
