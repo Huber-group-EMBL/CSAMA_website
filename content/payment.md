@@ -17,7 +17,7 @@ If you are paying for multiple participants you can add each of them to the bask
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="32AA6XBGPYYTS">
-<input type="hidden" name="shopping_url" value="https://csama2022.bioconductor.eu/payment/"> 
+<input type="hidden" name="shopping_url" value="https://csama2023.bioconductor.eu/payment/"> 
 <table>
 <tr><td><input type="hidden" name="on0" value="Registration fees">Registration fees</td></tr><tr><td>
   <select class="form-control" name="os0">

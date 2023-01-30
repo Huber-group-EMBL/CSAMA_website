@@ -37,7 +37,7 @@ Speakers and programme agenda are subject to change.
 
 ## Register interest
 
-**CSAMA 2022 is now fully booked and general registration is closed.**  <!--A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.-->
+**CSAMA 2023 is now fully booked and general registration is closed.**  <!--A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.-->
 
 
 <div class="container">

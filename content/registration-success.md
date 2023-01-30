@@ -2,7 +2,7 @@
 title = "Thank you for registering"
 +++
 
-Thank you for registering for CSAMA 2022.
+Thank you for registering for CSAMA 2023.
 
 You will be sent an invoice with payment details via email in the next few days.  
 

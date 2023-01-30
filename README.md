@@ -1,6 +1,6 @@
-# CSAMA 2022 Course Website
+# CSAMA Course Website
 
-This repository contains material for the CSAMA 2022 course. View example at https://csama2022.bioconductor.eu/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioC2020)
+This repository contains material for the CSAMA course. View example at https://csama2022.bioconductor.eu/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioC2020)
 
 This was originally forked from the [Bioconductor Conference Template](https://github.com/mdozmorov/conference_template.git).
 
