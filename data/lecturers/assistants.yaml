@@ -1,4 +1,6 @@
 people:
 #- {name: Constantin Ahlmann-Eltze, location: European Molecular Biology Laboratory, initials: CAE}
 - {name: Simone Bell, location: European Molecular Biology Laboratory, initials: SB}
+- {name: Sarah Kaspar, location: European Molecular Biology Laboratory, initials: SK}
+- {name: Julia Philipp, location: European Molecular Biology Laboratory, initials: JP}
 #- {name: Nitesh Turaga, location: Harvard Medical School and Bioconductor core team, initials: NT}

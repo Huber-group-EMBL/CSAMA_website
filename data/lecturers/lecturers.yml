@@ -3,7 +3,6 @@ people:
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
 #- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
-#- {name: Julia Philipp, location: European Molecular Biology Laboratory, initials: JP}
 - {name: Mike Love, location:  University of North Carolina at Chapel Hill, initials: ML}
 - {name: Johannes Rainer, initials: JR, location: Eurac Research}
 - {name: Davide Risso, initials: DR, location: University of Padova}
