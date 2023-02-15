@@ -1,13 +1,13 @@
 +++
-title = "About The Course"
-description = "Details of the course content and structure"
+title = "About CSAMA"
+description = "Details of the summer school content and structure"
 +++
 
-The course is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows. The four practical sessions of the course will require you to follow and modify scripts in the computer language R. 
+The summer school is intended for researchers who have basic familiarity with the experimental technologies and their applications in biology, and who are interested in making the step from a user of bioinformatics software towards adapting or developing their own analysis workflows. The four practical sessions of the summer school will require you to follow and modify scripts in the computer language R. 
 
 ## Topics
 
-The course covers a wide range of topics, including but not limited to:
+The programme covers a wide range of topics, including but not limited to:
 
 - Introduction to R and Bioconductor
 - Elements of statistics: visualization, regression, PCA and other low-dimensional embeddings, statistical tests incl. multiple, classification / supervised machine learning
@@ -21,24 +21,24 @@ The course covers a wide range of topics, including but not limited to:
 - Reproducible research and workflow authoring with R markdown
 - Package development, version control and developer tools
 
-## Course Structure
+## Summer School Structure
 
-The course consists of:
+The format consists of:
 
 - Morning lectures: 20 x 45 minutes: Monday to Friday 8:30-12:00h
 - Practical computer tutorials in the afternoons: Mon, Tue, Thu, Fri 13:30-16:30h
 - Evening sessions: Mon, Tue 20:30-22:00h
 - A hike in the mountains: Wed 14:00-22:00h
 
-## Course Materials
+## Teaching Materials
 
-All lecture slides and workshop material will be made available during the course and will remain available after the event.
+All lecture slides and workshop material will be made available during the summer school and will remain available after the event.
 
 ## Computer Tutorials
 
 You will work on the labs at your own pace in small groups with expert guidance (all lecturers from the morning sessions plus teaching assistants).
 
-Participants are required to bring their own laptop with the most recent release versions of R and Bioconductor installed: R-4.2.x and Bioconductor 3.15 installed (details will be provided). Please make sure that your computer’s hardware is sufficiently powered (>=8 GB RAM, >20 GB free disk space) and that you have administrator rights. Please set up your computer beforehand; internet connections at the course venue can be slow and unreliable.
+Participants are required to bring their own laptop with the most recent release versions of R and Bioconductor installed: R-4.2.x and Bioconductor 3.15 installed (details will be provided). Please make sure that your computer’s hardware is sufficiently powered (>=8 GB RAM, >20 GB free disk space) and that you have administrator rights. Please set up your computer beforehand; internet connections at the venue can occasionally be slow and unreliable.
 
 ## Social Programme {#social}
 

@@ -9,21 +9,15 @@ description = "Registration"
 
 The course fees include participation in the lectures, the computer tutorials and all other course events: coffee breaks, buffet lunch (Monday to Friday), Wednesday’s social programme and dinner, course material.
 
-Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 19th May 2022.
+Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 11th May 2023.
 
 In order to register, each participant needs to fill in the form below and complete the payment. Please include your contact email and name.
 
 ### Before paying:
 
-If you are unsure about which category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at info[at]bioconductor.eu.
+**Please note:** you can register only if you belong to an Organisation (university, company, institution) and not as a private person. Invoices are issued to organisations only and the full business address must be provided. 
 
-If you are unsure about the VAT, please check the “[Should I pay the VAT](#VAT)” section below or ask us at info[at]bioconductor.eu.
-
-**NOTE:** If you pay from your personal bank account you must pay the 22% additional VAT. If your institution is European and pays directly through PayPal or money transfer the registration is VAT exempt. For other information about VAT please go the “[Should I pay the VAT](#VAT)” section.
-
-Italian participants payed by Italian institutions (PA) or private companies, should ask for the “fattura elettronica” unless they pay on a personal basis.
-
-If you are uncertain about the payment, please contact us at info[at]bioconductor.eu and we will guide you through registration.
+If you are unsure about which participant category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at info[at]bioconductor.eu. We will guide you through registration.
 
 ### Cancellation and Refund policy:
 
@@ -35,10 +29,7 @@ If cancellation occurs less than 14 days prior to the start of the event, the ca
 
 Speakers and programme agenda are subject to change.
 
-## Register interest
-
-**CSAMA 2023 is now fully booked and general registration is closed.**  <!--A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.-->
-
+## Register for CSAMA 2023
 
 <div class="container">
 <form name="register" 
@@ -141,10 +132,3 @@ Speakers and programme agenda are subject to change.
 </div>
 
 
-<!--
-### Stipends for scientists displaced by war
-
-We are grateful to be able to provide a limited number of travel and registration stipends for displaced scientists. Criteria are: displacement from home or workplace due to a war event in the last year, and previous engagement with biostatistics, statistical computing or biological data science, typically evidenced by a degree or job position. Applications satisfying the criteria will be awarded on a first-come-first-serve basis, based on available funding. We will book for you (or if we agree in advance, reimburse) train travel within Europe, accommodation during the course, and registration fee. Please email your CV, a motivation paragraph describing your engagement in this area of science, and a brief summary of your circumstances, to info[at]bioconductor.eu. All information will be treated confidentially.
--->
-
-{{% should-i-pay-vat %}}

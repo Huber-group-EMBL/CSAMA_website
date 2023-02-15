@@ -1,6 +1,6 @@
 +++
 title = "Venue"
-description = "The course venue and key places in Brixen"
+description = "The venue and key places in Brixen"
 +++
 
 We will welcome you on Sunday around 18:00h for a welcome buffet at the main site. The main idea of this pre-course meeting is to meet each other in an informal environment.
@@ -13,7 +13,7 @@ The following map is a very reduced one. You can have a big one in [PNG format](
 
 <img src="/img/Conference_sites_1440x1440.png" alt="Map of Brixen" width="400"/>
 
-### (1) Casa della Gioventù – main course site:
+### (1) Casa della Gioventù – main CSAMA site:
 Casa della Gioventù is the place where morning lectures, afternoon labs, and the evening sessions will take place, and it is also the place of the welcome buffet. It is a building of the University of Padova, located in Via Rio Bianco 6, 5 minutes from the town center.
 
 ### (2) Hotel Albero Verde (Grüner Baum):
