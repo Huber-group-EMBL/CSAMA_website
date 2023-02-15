@@ -7,7 +7,7 @@ description = "Registration"
 
 {{< feeTable >}}
 
-The course fees include participation in the lectures, the computer tutorials and all other course events: coffee breaks, buffet lunch (Monday to Friday), Wednesday’s social programme and dinner, course material.
+The course fees include participation in the lectures, the computer tutorials and all other events: coffee breaks, Wednesday’s social programme and dinner, course material.
 
 Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 11th May 2023.
 

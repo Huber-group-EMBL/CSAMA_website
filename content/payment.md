@@ -4,7 +4,7 @@ title = "Payment"
 
 Thank you for your registration.  Your place in the summer school is only confirmed once the payment has been made.  You can do this either via the Paypal "Add to cart" button below or via bank transfer.
 
-Please ensure that you provide the name of the person attending CSAMA in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  If you are unsure about the VAT, please check the section “[Should I pay VAT?](#VAT)” below or ask us at **info[at]bioconductor.eu**.
+Please ensure that you provide the name of the person attending CSAMA in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  If you are unsure about the VAT, please ask us at **info[at]bioconductor.eu**.
 
 On the payment page please choose the yellow "PayPal check out" button even if you do not have a PayPal account.  You will be able to pay directly with a credit card on the next page.
 
@@ -54,7 +54,4 @@ If you are paying for multiple participants you can add each of them to the bask
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
----
-<!--
-{{% should-i-pay-vat %}}
--->
+
