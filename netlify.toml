@@ -10,8 +10,18 @@
   for = "/success"
   [headers.values]
     X-Robots-Tag = "noindex"
-    
+
 [[headers]]
   for = "/cancellation"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+
+[[headers]]
+  for = "/registration*"
+  [headers.values]
+    X-Robots-Tag = "noindex"
+    
+[[headers]]
+  for = "/programme*"
   [headers.values]
     X-Robots-Tag = "noindex"
