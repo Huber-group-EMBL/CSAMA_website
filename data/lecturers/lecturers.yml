@@ -1,7 +1,7 @@
 people:
 - {name: Vince Carey, initials: VJC, location: Harvard Medical School}
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
-#- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
+- {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
 - {name: Lori Kern, inititals: LK, location: Roswell Park Comprehensive Cancer Center}
 - {name: Mike Love, location:  University of North Carolina at Chapel Hill, initials: ML}
