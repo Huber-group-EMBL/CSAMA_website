@@ -2,7 +2,7 @@
 title = "Registration"
 description = "Registration"
 +++
-
+<!--
 ## Course fees
 
 {{< feeTable >}}
@@ -34,7 +34,7 @@ Cancellation fees are dependent on the notice given:
 If cancellation occurs less than 14 days prior to the start of the event, the cancellation fee is 100% of the registration fee. If cancellation occurs between 14 days and 1 month prior to the start of the event, the cancellation fee is 50% of the registration fee. Earlier than 1 month, a cancellation fee of EUR 70 will be charged. If payment has been made by the payment deadline of the event and a visa is not awarded in time to travel to the event, the full registration fee will be reimbursed. Evidence about the visa application will be requested. All applicable refunds will be issued following the close of the event. A refund will be returned via bank transfer. 
 
 Speakers and programme agenda are subject to change.
-
+-->
 ## Register interest
 
 **CSAMA 2022 is now fully booked and general registration is closed.**  <!--A small number of stipends (see below) are still available.  Please email us at info[at]bioconductor.eu if you would like to apply for a stipend.-->
@@ -147,4 +147,4 @@ Speakers and programme agenda are subject to change.
 We are grateful to be able to provide a limited number of travel and registration stipends for displaced scientists. Criteria are: displacement from home or workplace due to a war event in the last year, and previous engagement with biostatistics, statistical computing or biological data science, typically evidenced by a degree or job position. Applications satisfying the criteria will be awarded on a first-come-first-serve basis, based on available funding. We will book for you (or if we agree in advance, reimburse) train travel within Europe, accommodation during the course, and registration fee. Please email your CV, a motivation paragraph describing your engagement in this area of science, and a brief summary of your circumstances, to info[at]bioconductor.eu. All information will be treated confidentially.
 -->
 
-{{% should-i-pay-vat %}}
+<!--{{% should-i-pay-vat %}}-->
