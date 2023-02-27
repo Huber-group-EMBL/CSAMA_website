@@ -3,9 +3,12 @@ people:
 - {name: Laurent Gatto, initials: LG, location: UCLouvain}
 - {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
+- {name: Sarah Kaspar, location: European Molecular Biology Laboratory, initials: SK}
 - {name: Lori Kern, inititals: LK, location: Roswell Park Comprehensive Cancer Center}
 - {name: Mike Love, location:  University of North Carolina at Chapel Hill, initials: ML}
+- {name: Julia Philipp, location: European Molecular Biology Laboratory, initials: JP}
 - {name: Johannes Rainer, initials: JR, location: Eurac Research}
 - {name: Davide Risso, initials: DR, location: University of Padova}
 - {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research}
+- {name: Simone Bell, location: European Molecular Biology Laboratory, initials: SB}
 

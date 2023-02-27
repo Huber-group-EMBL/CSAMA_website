@@ -34,7 +34,7 @@ paginate = 50
 [[menu.main]]
     identifier="registration"
     name = "Registration"
-    url  = "/registration-coming-soon/"
+    url  = "/registration/"
     weight = 3
 
 [[menu.main]]
@@ -134,17 +134,11 @@ paginate = 50
     # at 'exampleSite/data/features'.
     # For more informtion take a look at the README.
 
-[params.speakers]
-    enable = false
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/speakers'.
-    # For more informtion take a look at the README.
-    title = "Speakers"
-    # subtitle = "Confirmed speakers"
+
 
 [params.lecturers]
     enable = true
-    title = "Speakers"
+    title = "Lecturers and Faculty"
     
 [params.overview]
     enable = true

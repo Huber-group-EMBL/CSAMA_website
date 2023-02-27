@@ -26,6 +26,21 @@
                     </li>
                     {{ end }}
                 </ul>
+                
+                <ul class="owl-carousel sponsors">
+                    {{ range $index, $element := .Site.Data.sponsors2 }}
+                      <li class="item" title="{{ .name }}">
+                          {{ if .url }}
+                            <a href="{{ .url }}" target="_blank">
+                              <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                            </a>
+                          {{ else }}
+                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
+                          {{ end }}
+                          
+                      </li>
+                    {{ end }}
+                </ul>
                 <!-- /.owl-carousel -->
             </div>
         </div>
