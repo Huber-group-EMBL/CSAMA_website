@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
 
   <body>
 
@@ -12,14 +15,10 @@
         {{ partial "nav.html" . }}
 
         {{ partial "carousel.html" . }}
-        
-        {{ partial "overview.html" . }}
 
         {{ partial "features.html" . }}
 
         {{ partial "testimonials.html" . }}
-
-        {{ partial "speakers.html" . }}
 
         {{ partial "see_more.html" . }}
 

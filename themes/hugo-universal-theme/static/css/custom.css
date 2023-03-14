@@ -1,24 +1,13 @@
-/* your styles go here */
-
 .box-image-text .image {
-  min-height: 200px;
-  max-height: 200px;
+  min-height: 190px;
+  max-height: 190px;
+}
+
+.box-image-text .image img {
+  max-height: 190px;
+  margin: auto;
 }
 
 .box-simple {
   min-height: 230px;
-}
-
-#footer {
-    padding-top: 25px;
-    padding-bottom: 25px;
-}
-
-
-table.programme {
-    width: 850px;
-}
-
-p {
-    font-size: 1.2em;
 }

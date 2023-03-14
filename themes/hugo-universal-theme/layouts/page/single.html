@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+  <head>
+    {{ partial "headers.html" . }}
+    {{ partial "custom_headers.html" . }}
+  </head>
 
   <body>
 
     <div id="all">
-
         {{ partial "top.html" . }}
 
         {{ partial "nav.html" . }}
@@ -27,9 +29,7 @@
                     <div class="col-md-12">
 
                         <div>
-                            <p class="text-primary text-uppercase mb-small text-left text-large">
-                                {{ .Content }}
-                            </p>
+                          {{ .Content }}
                         </div>
 
                     </div>
