@@ -87,7 +87,15 @@ p {
     align-items: center;
 }
 
+.home-carousel {
+  position: relative;
+  background: url('../img/csama2018_massiv.jpg') center center repeat; 
+  background-size: cover;
+}
 
+.bar.background-pentagon { 
+    background: url(../img/bg-greenwaves.jpg) center center repeat;
+}
 
 
 @media (max-width: 991px) {
