@@ -97,6 +97,9 @@ p {
     background: url(../img/bg-greenwaves.jpg) center center repeat;
 }
 
+#heading-breadcrumbs {
+    background: url('../img/bg-greenwaves.jpg') center center repeat;
+}
 
 @media (max-width: 991px) {
   .navbar-header {
