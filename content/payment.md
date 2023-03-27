@@ -6,6 +6,7 @@ Thank you for your registration.  Your place in the summer school is only confir
 
 Please ensure that you provide the name of the person attending CSAMA in the box below.  This will allow us to match payments and registrations, even if the payment is performed under another name or using an institutional account.  Then select the type of registration you require from the dropdown list.  As a reminder the categories of registration are listed below.  If you are unsure about anything, please contact us at **info@bioconductor.eu**.
 
+<!--
 On the payment page please choose the yellow "PayPal check out" button even if you do not have a PayPal account.  You will be able to pay directly with a credit card on the next page.
 
 If you are paying for multiple participants you can add each of them to the basket separately and then proceed with a single payment.
@@ -32,3 +33,4 @@ If you are paying for multiple participants you can add each of them to the bask
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_SM.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+-->
