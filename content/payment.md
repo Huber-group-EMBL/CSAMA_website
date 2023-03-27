@@ -2,7 +2,8 @@
 title = "Payment"
 +++
 
-Thank you for your registration.  Your place in the summer school is only confirmed once the payment has been made.  We will send you an invoice within the next five days with payment details.  If you are unsure about anything, please contact us at **info@bioconductor.eu**.
+
+Thank you for your registration. Your place in the summer school is only confirmed once the payment has been made. We will send you a message within the next five days. If you are unsure about anything, please contact us at bell@embl.de.
 
 <!-- You can do this either via the Paypal "Add to cart" button below or via bank transfer.
 
