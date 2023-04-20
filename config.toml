@@ -87,7 +87,7 @@ paginate = 50
     defaultKeywords = ["Bioconductor", "CSAMA", "Bioinformatics", "Training"]
 
     # Social media
-    defaultDescription = "Statistical Data Analysis for Genome-Scale Biology. 11-16 June 2023, Brixen / Bressanone, Italy"
+    defaultDescription = "Biological Data Science, 11-16 June 2023, Brixen / Bressanone, Italy"
     default_sharing_image = "img/social_media_image.png"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
