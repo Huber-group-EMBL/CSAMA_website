@@ -143,7 +143,7 @@ paginate = 50
 [params.overview]
     enable = true
     title = "Overview"
-    content = "The one-week intensive summer school **Statistical Data Analysis for Genome-Scale Biology** teaches statistical and computational data analysis of multi-omics studies in biology and biomedicine. It comprises lectures covering underlying theory and state of the art, and practical hands-on exercises based on the R / Bioconductor environment. At the end of the course, you should be able to run analysis workflows on your own (multi-)omic data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies."
+    content = "The one-week intensive summer school **Biological Data Science** teaches advanced computational data analysis of modern molecular data types in biology and biomedicine, including single cell and spatial omics. It comprises lectures covering underlying theory and concepts, and practical hands-on exercises. The lecture topics include modern biotechnologies for quantitative measurements, statistical analysis, visualisation, and computational toolsets. The hands-on exercises are looking at state-of-the-art datasets, and use the R / Bioconductor environment. At the end of the course, you should be able to design, implement and interpret data analyses on your own (multi-)omic, single and/or spatial data, adapt and combine different tools, and make informed and scientifically sound choices about analysis strategies."
 
 [params.see_more]
     enable = false
