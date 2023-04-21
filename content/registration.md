@@ -9,13 +9,9 @@ description = "Registration"
 
 The course fees include participation in the lectures, the computer tutorials and all other events: coffee breaks, Wednesday’s social programme and dinner, course material.
 
-Places are awarded on a first-come, first-served basis. In previous years the course was sold out. We aim to finalize registration by 11th May 2023.
+Places are awarded on a first-come, first-served basis. In previous years the course was sold out. 
 
 In order to register, each participant needs to fill in the form below and complete the payment. Please include your contact email and name.
-
-### Before paying:
-
-**Please note:** you can register only if you belong to an Organisation (university, company, institution) and not as a private person. Invoices are issued to organisations only and the full business address must be provided. Invoices for any kind of payment will be sent to participants within 3-5 days. 
 
 If you are unsure about which participant category you belong to, if you need to pay by money transfer, if you have special requirements for you invoice, or for any other reason, please contact us at info[at]bioconductor.eu. We will guide you through registration.
 
