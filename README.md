@@ -1,6 +1,6 @@
 # CSAMA Course Website
 
-This repository contains material for the CSAMA course. View example at https://csama2022.bioconductor.eu/ and the corresponding [GitHub repo](https://github.com/Bioconductor/BioC2020)
+This repository contains material for creating the CSAMA website. This can current be found at https://csama2023.bioconductor.eu/
 
 This was originally forked from the [Bioconductor Conference Template](https://github.com/mdozmorov/conference_template.git).
 
@@ -21,7 +21,7 @@ cd CSAMA_website/
 docker run --rm -it --name hugo_server \
   -v $(pwd):/src \
   -p 1313:1313 \
-  klakegg/hugo:0.92.1 \
+  klakegg/hugo:0.101.0 \
   server
 ```
 
@@ -29,7 +29,7 @@ and view the results at http://localhost:1313/
 
 ## Hosting
 
-The site is hosted by [Netlify](https://www.netlify.com/).  Any push to the `main` branch of this repository will trigger a rebuild of the website.  If you have a Netlify account let me (Mike) know and I'll add you to the CSAMA team on Netlify so you can view the details of any build/errors etc.
+Any push to the `2023` branch of this repository will trigger a rebuild of the website. The site is hosted and deployed by [Netlify](https://www.netlify.com/) using the Bioconductor Open Source Software team.  If you have a Netlify account contact one of the administrators of that team (currently Mikhail Dozmorov, Mike Smith, Charlotte Soneson, Martin Morgan) know and they'll add you to the Bioconductor team on Netlify so you can view the details of any build/errors etc.
 
 
 
