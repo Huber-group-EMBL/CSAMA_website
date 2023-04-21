@@ -10,7 +10,7 @@ description = "Programme"
 - Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) <!-- Davide Risso -->
 - Visualisation / graphics <!-- Wolfgang Huber -->, PCA and other low-dimensional embeddings <!-- Charlotte Soneson -->, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples) <!-- Vincent Carey -->
 - Statistical hypothesis testing, false discovery rate, multiple testing, filtering and weighting
-- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data -- Charlotte Soneson, Robert Gentleman
+- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data <!-- Charlotte Soneson, Robert Gentleman -->
 - Classification / supervised machine learning <!-- Robert Gentleman -->
 - Image-based data and Spatial omics (CODEX, MERFISH et al.) <!-- Wolfgang Huber -->
 - Introduction to the Bioconductor project (community, organisational structure, website, important infrastructure packages, data structures, annotation resources) <!-- Lori Kern -->
