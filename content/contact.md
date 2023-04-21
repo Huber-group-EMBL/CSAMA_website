@@ -8,6 +8,7 @@ By inquiries related to the registration, scientific program, organisation and c
 
 ## Summer school coordination
 Wolfgang Huber and Mike Smith, European Bioconductor Society e.V. and European Molecular Biology Laboratory.
+Junyan Lu, Heidelberg University Hospital.
 
 ## Summer school organisation
 Simone Bell, European Bioconductor Society e.V. and European Molecular Biology Laboratory.
