@@ -18,8 +18,8 @@ cd CSAMA_website/
 2. Run the Hugo docker image from https://hub.docker.com/r/klakegg/hugo/
 
 ```shell
-docker run --rm -it --name hugo_server \ 
-  -v $(pwd):/src \                 
+docker run --rm -it --name hugo_server \
+  -v $(pwd):/src \
   -p 1313:1313 \
   klakegg/hugo:0.92.1 \
   server
