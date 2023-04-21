@@ -12,11 +12,10 @@ The programme covers a wide range of topics, including but not limited to:
 - Introduction to R and Bioconductor
 - Elements of statistics: visualization, regression, PCA and other low-dimensional embeddings, statistical tests incl. multiple, classification / supervised machine learning
 - RNA-Seq data analysis – bulk and single cell
-- Computing with sequences and genomic intervals
+- Spatial omics
 - Working with annotation – genes, genomic features, variants, transcripts and proteins
-- Gene set enrichment analysis
-- MS-based proteomics and metabolomics
-- Basics of microbiome analysis
+- Mass spectrometry based proteomics and metabolomics
+- Immunobioinformatics
 - Experimental design, batch effects and confounding
 - Reproducible research and workflow authoring with R markdown
 - Package development, version control and developer tools
@@ -27,7 +26,8 @@ The format consists of:
 
 - Morning lectures: 20 x 45 minutes: Monday to Friday 8:30-12:00h
 - Practical computer tutorials in the afternoons: Mon, Tue, Thu, Fri 13:30-16:30h
-- Evening sessions: Mon, Tue 20:30-22:00h
+- Flashlight talks by participants: Mon, Tue, Thu 16:30-17:00h
+- Evening sessions: Monday and Tuesday 20:30-22:00h
 - A hike in the mountains: Wed 14:00-22:00h
 
 ## Teaching Materials
@@ -62,6 +62,6 @@ One of the afternoons is for a joint cultural and outdoors activity. We plan a t
 
 **Please pack/bring:**
 - Solid footwear (ideal: hiking shoes or boots)
-- Jacket or warm sweater for the descent (it may get quite fresh)
+- Warm sweater/fleece and rain jacket for the descent (it can get quite fresh)
 
-**Please note:** If you won't attend the social programme, please let us know at the latest on Monday 20 June via email to info[at]bioconductor.eu
+**Please note:** If you will not attend the social programme, please let us know at the latest on Monday 12 June via email to info[at]bioconductor.eu

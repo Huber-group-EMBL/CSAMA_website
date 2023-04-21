@@ -4,12 +4,11 @@ people:
 - {name: Robert Gentleman, initials: RG, location: Harvard Medical School}
 - {name: Wolfgang Huber, initials: WH, location: European Molecular Biology Laboratory}
 - {name: Katharina Imkeller, initials: KI, location: Frankfurt University Hospital}
-- {name: Sarah Kaspar, location: European Molecular Biology Laboratory, initials: SK}
-- {name: Lori Kern, inititals: LK, location: Roswell Park Comprehensive Cancer Center}
-- {name: Mike Love, location:  University of North Carolina at Chapel Hill, initials: ML}
-- {name: Julia Philipp, location: European Molecular Biology Laboratory, initials: JP}
+- {name: Sarah Kaspar, initials: SK, location: European Molecular Biology Laboratory}
+- {name: Lori Kern, initials: LK, location: Roswell Park Comprehensive Cancer Center}
+- {name: Mike Love, initials: ML, location:  University of North Carolina at Chapel Hill}
+- {name: Julia Philipp, initials: JP, location: European Molecular Biology Laboratory}
 - {name: Johannes Rainer, initials: JR, location: Eurac Research}
 - {name: Davide Risso, initials: DR, location: University of Padova}
 - {name: Charlotte Soneson, initials: CS, location: Friedrich Miescher Institute for Biomedical Research}
-- {name: Simone Bell, location: European Molecular Biology Laboratory, initials: SB}
-
+- {name: Simone Bell, initials: SB, location: European Molecular Biology Laboratory}

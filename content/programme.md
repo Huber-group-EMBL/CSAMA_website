@@ -3,10 +3,27 @@ title = "Programme"
 description = "Programme"
 +++
 
+
+## Lecture and Lab topics
+
+- RNA-Seq from raw data to DESeq2: (quasi-)alignment, quantification at gene and transcript level, gamma-Poisson model, DESeq2 <!-- Mike Love -->
+- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) <!-- Davide Risso -->
+- Visualisation / graphics <!-- Wolfgang Huber -->, PCA and other low-dimensional embeddings <!-- Charlotte Soneson -->, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples) <!-- Vincent Carey -->
+- Statistical hypothesis testing, false discovery rate, multiple testing, filtering and weighting
+- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data -- Charlotte Soneson, Robert Gentleman
+- Classification / supervised machine learning <!-- Robert Gentleman -->
+- Image-based data and Spatial omics (CODEX, MERFISH et al.) <!-- Wolfgang Huber -->
+- Introduction to the Bioconductor project (community, organisational structure, website, important infrastructure packages, data structures, annotation resources) <!-- Lori Kern -->
+- Immunobioinformatics  <!-- Katharina Imkeller -->
+- Mass spectrometry-based proteomics and metabolomics <!-- Laurent Gatto, Johannes Rainer --> 
+- Emerging topics and participant suggestions
+
+<!--
 <div class="row">
 <div class="col-sm-offset-1 col-sm-10">
-				
-## Sunday, 19 June
+-->
+
+## Sunday, 11 June
 
 <table class="programme">
 	<tbody>
@@ -29,19 +46,19 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
     </tbody>
 </table>
 	
-## Monday, 20 June
+## Monday, 12 June
 
 <table class="programme" width="850px">
 	<tbody>
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 01</strong></td>
-			<td>Introduction to <a href="https://www.bioconductor.org">Bioconductor</a> (Martin Morgan)</td>
+			<td>Introduction to <a href="https://www.bioconductor.org">Bioconductor</a> (Lori Kern)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 02</strong></td>
-			<td>PCA and other low-dimensional embeddings (Levi Waldron)</td>
+			<td>PCA and other low-dimensional embeddings (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -50,12 +67,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 03</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Testing.html">Statistical tests I</a> (Wolfgang Huber)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Testing.html">Statistical tests</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 04</strong></td>
-			<td>Regression I (Robert Gentleman)</td>
+			<td>Regression (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:00</td>
@@ -67,13 +84,8 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Installation help desk</td>
 		</tr>
 		<tr>
-			<td>13:30–15:00</td>
-			<td><strong>Lab 1</strong></td>
-			<td>R and Bioconductor Basics (Martin Morgan)</td>
-		</tr>
-		<tr>
-			<td>15:00–16:30</td>
-			<td><strong>Lab 2</strong></td>
+			<td>13:30–16:30</td>
+			<td><strong>Lab</strong></td>
 			<td>R and Bioconductor Basics</td>
 		</tr>
 		<tr>
@@ -81,52 +93,51 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
-					<li>Christian Scherhäufl</li>
-					<li>Luis Manuel Cervera Seco</li>
-					<li>Kai Faehrmann</li>
-					<li>Albert Fradera Sola</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<td>20:10–22:00</td>
 			<td><strong>Evening session</strong></td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>20:10–20:30</td>
-			<td>&nbsp;</td>
 			<td>Beer and pizza will be provided</td>
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td>Demos</td>
-			<td><ul><li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
-			        <li>Using R/BioC with docker, singularity containers (Martin Morgan, Nitesh Turaga); bulker.io (Levi Waldron)
-			</ul></td>
+			<td><strong>Demos</strong></td>
+			<td>
+			<ul>
+              <li>Group projects (Vincent Carey, Robert Gentleman)
+ 			  <li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
+ 			  <li>Emerging topic
+			</ul>
+			</td>
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
-			<td>Discussion sessions</td>
+			<td><strong>Discussion sessions</strong></td>
 			<td><ul>
 			</ul></td>
 		</tr>
 	</tbody>
 </table>
 
-## Tuesday, 21 June
+## Tuesday, 13 June
 
 <table class="programme" width="850px">
 	<tbody>
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 05</strong></td>
-			<td>Basics of RNA-Seq (Davide Risso)</td>
+			<td>RNA-Seq (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 06</strong></td>
-			<td>Regression II (Charlotte Soneson)</td>
+			<td>Linear models for RNA-Seq ()</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -135,7 +146,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 07</strong></td>
-			<td>Single-cell RNA-seq: data properties, embeddings (Davide Risso)</td>
+			<td>Single-cell RNA-seq: exploration, quality control, low-dimensional embeddings (Davide Risso)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -149,7 +160,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 3</strong></td>
-			<td>End-to-end RNA-Seq workflow (Charlotte Soneson)</td>
+			<td>End-to-end RNA-Seq workflow (Michael Love and Charlotte Soneson)</td>
 		</tr>
 		<tr>
 			<td>13:30–16:30</td>
@@ -161,51 +172,47 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
-					<li>Daniel Fridljand</li>
-					<li>Anže Lovše</li>
-					<li>Martín González</li>
-					<li>Stephan Drothler</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
 				</ul>
 			</td>
 		</tr>
 		<tr>
 			<td>20:10–22:00</td>
 			<td><strong>Evening session</strong></td>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>20:10–20:30</td>
-			<td>&nbsp;</td>
 			<td>Beer and pizza will be provided</td>
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td>Demos / pitches</td>
+			<td><strong>Demos / pitches</strong></td>
 			<td>
-			<ul><li>5 min:  Reproducible research and open science (Laurent Gatto, Charlotte Soneson)
-			    <li>10 min: Shiny (Vincent Carey) 
-                <li>10 min: Getting started with cloud computing (Martin Morgan, Nitesh Turaga); GPUs (Nitesh Turaga)
-                <li>10 min: HDF5 / large single-cell datasets (Davide Risso) 
-				</ul>
+			<ul>
+			  <li>Reproducible research and open science (Laurent Gatto, Charlotte Soneson)
+		      <li>Shiny (Vincent Carey) 
+              <li>HDF5 / large single-cell datasets (Davide Risso)
+			  <li>Emerging topic
+	        </ul>
 			</td>
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
-			<td>Group discussion sessions on the lawn / patio</td>
-			<td><ul>
-			<li>... participants suggestions welcome!
-			<li>Reproducible research and open science (Laurent, Charlotte) 
-			<li>git, docker (Nitesh)
-			<li>HDF5 / large datasets (Davide)
-			<li>Cloud (Martin)
-			<li>New / emerging technologies and their data analytical needs (Wolfgang)
-			<li>Biggests challenges in biological data analysis (Vince)
-			</ul></td>
+			<td><strong>Group discussions on the lawn</strong></td>
+			<td>
+			<ul>
+			  <li>... participants suggestions welcome!
+			  <li>Reproducible research and open science (Laurent, Charlotte) 
+			  <li>HDF5 / large datasets (Davide)
+			  <li>Spatial omics (Wolfgang)
+			  <li>Publishing computational research (Vince, Robert)
+			</ul>
+			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Wednesday, 22 June
+## Wednesday, 14 June
 
 <table class="programme">
 	<tbody>
@@ -217,7 +224,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Testing.html">Statistical tests II</a> (Wolfgang Huber)</td>
+			<td>...</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -226,13 +233,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>Group projects (Vincent Carey)</td>
-			<!-- <td>Ranges</td> -->
+			<td>...</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 12</strong></td>
-			<td>Annotation Resources (Johannes Rainer)</td>
+			<td>Bioconductor Annotation Resources (Lori Kern)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -240,13 +246,13 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr>
 			<td>14:00–22:30</td>
-			<td>&nbsp;</td>
-			<td>Social programme: <a href="{{< relref "about.md#social" >}}">excursion to the mountains, dinner</a></td>
+			<td><strong>Social programme</strong></td>
+			<td><a href="{{< relref "about.md#social" >}}">Excursion to the mountains and dinner</a></td>
 		</tr>
 	</tbody>
 </table>
 
-## Thursday, 23 June
+## Thursday, 15 June
 
 <table class="programme">
 	<tbody>
@@ -291,13 +297,8 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Multimodal data (Levi Waldron)</td>
+			<td>...</td>
 		</tr>
-		<!-- <tr>
-			<td>13:30–16:30</td>
-			<td><strong>Lab 8</strong></td>
-			<td>Microbiome data (Levi Waldron)</td>
-		</tr> -->
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
@@ -308,20 +309,24 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
+					<li>selected from participants</li>
 				</ul>
 			</td>
 		</tr>
 	</tbody>
 </table>
 
-## Friday, 24 June
+## Friday, 16 June
 
 <table class="programme">
 	<tbody>
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>(Generalized) Linear Models (Robert Gentleman)</td> -->
+			<td>(Generalized) Linear Models</td> -->
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
@@ -341,7 +346,6 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 20</strong></td>
 			<td>Group projects (Vincent Carey)</td>
-			<!-- <td>Emerging topic</td> -->
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -360,13 +364,8 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Multimodal data (Levi Waldron)</td>
+			<td>...</td>
 		</tr>
-		<!-- <tr>
-			<td>13:30–16:30</td>
-			<td><strong>Lab 8</strong></td>
-			<td>Microbiome data (Levi Waldron)</td>
-		</tr> -->
 		<tr>
 			<td>13:30–16:30</td>
 			<td><strong>Lab 9</strong></td>
@@ -388,5 +387,7 @@ Each talk 5 min + 2 min questions
 
 {{< lecturersList >}}
 
+<!--
 </div>
 </div>
+-->
