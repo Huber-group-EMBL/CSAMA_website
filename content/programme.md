@@ -75,16 +75,16 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Regression (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
-			<td>12:00–13:00</td>
+			<td>12:00–13:30</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>13:00–13:30</td>
+			<td>13:30–14:00</td>
 			<td>&nbsp;</td>
 			<td>Installation help desk</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab</strong></td>
 			<td>R and Bioconductor Basics</td>
 		</tr>
@@ -154,16 +154,16 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Distances, nearest-neighbour graphs and clustering (Vincent Carey)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
-			<td>12:00–13:30</td>
+			<td>12:00–14:00</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 3</strong></td>
 			<td>End-to-end RNA-Seq workflow (Michael Love and Charlotte Soneson)</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 4</strong></td>
 			<td>Single-cell transcriptomics (Davide Risso)</td>
 		</tr>
@@ -241,7 +241,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Bioconductor Annotation Resources (Lori Kern)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
-			<td>12:00–13:30</td>
+			<td>12:00–14:00</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
@@ -281,26 +281,26 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Mass spectrometry-based metabolomics (Johannes Rainer)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
-			<td>12:00–13:30</td>
+			<td>12:00–14:00</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 5</strong></td>
 			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 6</strong></td>
 			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 7</strong></td>
 			<td>...</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 9</strong></td>
 			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
@@ -348,26 +348,26 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Group projects (Vincent Carey)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
-			<td>12:00–13:30</td>
+			<td>12:00–14:00</td>
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 5</strong></td>
 			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 6</strong></td>
 			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 7</strong></td>
 			<td>...</td>
 		</tr>
 		<tr>
-			<td>13:30–16:30</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 9</strong></td>
 			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
