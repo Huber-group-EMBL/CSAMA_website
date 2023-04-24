@@ -84,12 +84,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Installation help desk</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab</strong></td>
 			<td>R and Bioconductor Basics</td>
 		</tr>
 		<tr>
-			<td>16:30–17:00</td>
+			<td>17:00–17:30</td>
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
@@ -158,17 +158,17 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 3</strong></td>
 			<td>End-to-end RNA-Seq workflow (Michael Love and Charlotte Soneson)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 4</strong></td>
 			<td>Single-cell transcriptomics (Davide Risso)</td>
 		</tr>
 		<tr>
-			<td>16:30–17:00</td>
+			<td>17:00–17:30</td>
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
@@ -285,27 +285,27 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 5</strong></td>
 			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 6</strong></td>
 			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
 			<td>...</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 9</strong></td>
 			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>16:30–17:00</td>
+			<td>17:00–17:30</td>
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
@@ -352,27 +352,27 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 5</strong></td>
 			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 6</strong></td>
 			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
 			<td>...</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
+			<td>14:00–17:00</td>
 			<td><strong>Lab 9</strong></td>
 			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>16:30</td>
+			<td>17:00</td>
 			<td>&nbsp;</td>
 			<td>Closing remarks</td>
 		</tr>
