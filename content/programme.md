@@ -287,7 +287,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
+			<td>Proteomics/metabolomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -354,7 +354,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
+			<td>Proteomics/metabolomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
