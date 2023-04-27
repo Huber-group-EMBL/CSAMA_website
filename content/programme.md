@@ -259,7 +259,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 13</strong></td>
-			<td>Mass spectrometry-based proteomics (Laurent Gatto)</td>
+			<td>Mass spectrometry-based proteomics, incl. single-cell (Laurent Gatto)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
