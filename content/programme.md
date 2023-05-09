@@ -264,7 +264,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 14</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Sarah Kaspar)</td>
+			<td>Mass spectrometry-based metabolomics (Johannes Rainer)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -278,7 +278,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>11:30–12:00</td>
 			<td><strong>Lecture 16</strong></td>
-			<td>Mass spectrometry-based metabolomics (Johannes Rainer)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Sarah Kaspar)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
