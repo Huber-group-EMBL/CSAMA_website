@@ -132,12 +132,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 05</strong></td>
-			<td>RNA-Seq (Michael Love)</td>
+			<td>RNA-Seq: reads to count table (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 06</strong></td>
-			<td>Linear models for RNA-Seq ()</td>
+			<td>RNA-Seq: from count table to hit list: gamma-Poisson, linear models, tests (Michael | Charlotte)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -224,7 +224,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td>...</td>
+			<td>Advanced scRNA-Seq I: from exploration to inference; pseudo-bulking, double-dipping, ....</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -233,7 +233,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>...</td>
+			<td>Advanced scRNA-Seq II: trajectories, pseudo-time, bifurcations, ...</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -264,7 +264,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 14</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Sarah Kaspar)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
