@@ -201,7 +201,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Group discussions on the lawn</strong></td>
 			<td>
 			<ul>
-			  <li>... participants suggestions welcome!
+			  <li>... <selected from participants' suggestions> ...
 			  <li>Reproducible research and open science (Laurent, Charlotte) 
 			  <li>HDF5 / large datasets (Davide)
 			  <li>Spatial omics (Wolfgang)
