@@ -6,7 +6,7 @@ description = "Programme"
 
 ## Lecture and Lab topics
 
-- RNA-Seq from raw data to DESeq2: (quasi-)alignment, quantification at gene and transcript level, gamma-Poisson model, DESeq2 <!-- Mike Love -->
+- RNA-Seq from raw data to DESeq2: mapping, quantification at gene and transcript level, gamma-Poisson model, DESeq2 <!-- Mike Love -->
 - Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) <!-- Davide Risso -->
 - Visualisation / graphics <!-- Wolfgang Huber -->, PCA and other low-dimensional embeddings <!-- Charlotte Soneson -->, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples) <!-- Vincent Carey -->
 - Statistical hypothesis testing, false discovery rate, multiple testing, filtering and weighting
@@ -112,7 +112,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<ul>
               <li>Group projects (Vincent Carey, Robert Gentleman)
  			  <li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
- 			  <li>Emerging topic
+ 			  <li>Tidy analysis of genomic data with <a href="https://sa-lee.github.io/plyranges/">plyranges</a> and other packages (Michael Love)
 			</ul>
 			</td>
 		</tr>
@@ -132,12 +132,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 05</strong></td>
-			<td>RNA-Seq: reads to count table (Michael Love)</td>
+			<td>RNA-Seq intro: biology of transcription, quantification, batch effects and QC (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 06</strong></td>
-			<td>RNA-Seq: from count table to hit list: gamma-Poisson, linear models, tests (Michael | Charlotte)</td>
+			<td>RNA-Seq for DE: Types of DE, modeling counts, scaling, transcript lengths, parameter estimation (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -297,7 +297,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
-			<td>...</td>
+			<td>Tidy genomic analysis workflows (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -364,7 +364,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
-			<td>...</td>
+			<td>Tidy genomic analysis workflows (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
