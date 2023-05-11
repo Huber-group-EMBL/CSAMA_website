@@ -224,7 +224,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td>Advanced scRNA-Seq I: from exploration to inference; pseudo-bulking, double-dipping (Mike | Charlotte | Davide)</td>
+			<td>Spatial (transcript)omics (Davide Risso)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -233,7 +233,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>Advanced scRNA-Seq II: trajectories, pseudo-time, bifurcations (Mike | Charlotte | Davide)</td>
+			<td>Advanced single cell omics I: from exploration to inference; pseudo-bulking, double-dipping (Mike | Charlotte)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -340,7 +340,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 19</strong></td>
-			<td>Emerging topic</td>
+			<td>Advanced single cell omics II: Trajectories, pseudo-time, bifurcations, spatial statistics (Mike | Charlotte | Davide | Wolfgang)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
