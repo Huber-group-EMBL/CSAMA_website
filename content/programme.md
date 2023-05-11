@@ -58,7 +58,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 02</strong></td>
-			<td>PCA and other low-dimensional embeddings (Charlotte Soneson)</td>
+			<td>Regression (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -72,7 +72,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 04</strong></td>
-			<td>Regression (Robert Gentleman)</td>
+			<td>PCA and other low-dimensional embeddings (Sarah Kaspar)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -219,12 +219,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 09</strong></td>
-			<td>Human Cell Atlas | Ontologies | Shiny (Vincent Carey)</td>
+			<td>Human Cell Atlas |> Ontologies |> Shiny %<>% Bioconductor (Vincent Carey)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td>Advanced scRNA-Seq I: from exploration to inference; pseudo-bulking, double-dipping, ....</td>
+			<td>Advanced scRNA-Seq I: from exploration to inference; pseudo-bulking, double-dipping (Mike | Charlotte | Davide)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -233,7 +233,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>Advanced scRNA-Seq II: trajectories, pseudo-time, bifurcations, ...</td>
+			<td>Advanced scRNA-Seq II: trajectories, pseudo-time, bifurcations (Mike | Charlotte | Davide)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -326,7 +326,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>(Generalized) Linear Models</td> -->
+			<td>Design of High Throughput Experiments and their Analysis (Charlotte Soneson)</td> 
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
