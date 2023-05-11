@@ -6,13 +6,13 @@ description = "Programme"
 
 ## Lecture and Lab topics
 
-- RNA-Seq from raw data to DESeq2: mapping, quantification at gene and transcript level, gamma-Poisson model, DESeq2 <!-- Mike Love -->
-- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) <!-- Davide Risso -->
-- Visualisation / graphics <!-- Wolfgang Huber -->, PCA and other low-dimensional embeddings <!-- Charlotte Soneson -->, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples) <!-- Vincent Carey -->
+- RNA-Seq from raw data to DESeq2: mapping, quantification at gene and transcript level, gamma-Poisson model, DESeq2
+- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) 
+- Visualisation / graphics, PCA and other low-dimensional embeddings, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples)
 - Statistical hypothesis testing, false discovery rate, multiple testing, filtering and weighting
-- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data <!-- Charlotte Soneson, Robert Gentleman -->
-- Classification / supervised machine learning <!-- Robert Gentleman -->
-- Image-based data and Spatial omics (CODEX, MERFISH et al.) <!-- Wolfgang Huber -->
+- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data
+- Classification / supervised machine learning
+- Image-based data and Spatial omics (CODEX, MERFISH et al.)
 - Introduction to the Bioconductor project (community, organisational structure, website, important infrastructure packages, data structures, annotation resources) <!-- Lori Kern -->
 - Immunobioinformatics  <!-- Katharina Imkeller -->
 - Mass spectrometry-based proteomics and metabolomics <!-- Laurent Gatto, Johannes Rainer --> 
@@ -264,7 +264,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 14</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Sarah Kaspar)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
