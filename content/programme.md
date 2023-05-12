@@ -58,7 +58,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 02</strong></td>
-			<td>Regression (Robert Gentleman)</td>
+			<td>PCA and other low-dimensional embeddings (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -72,7 +72,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 04</strong></td>
-			<td>PCA and other low-dimensional embeddings (Sarah Kaspar)</td>
+			<td>Design of High Throughput Experiments and their Analysis (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -273,7 +273,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:30</td>
 			<td><strong>Lecture 15</strong></td>
-			<td>Supervised machine learning (Robert Gentleman)</td>
+			<td>Regression (Sarah Kaspar)</td>
 		</tr>
 		<tr>
 			<td>11:30–12:00</td>
@@ -326,7 +326,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>Design of High Throughput Experiments and their Analysis (Charlotte Soneson)</td> 
+			<td>Supervised machine learning (Robert Gentleman)</td> 
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
