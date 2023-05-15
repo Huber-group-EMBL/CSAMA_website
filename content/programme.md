@@ -6,13 +6,13 @@ description = "Programme"
 
 ## Lecture and Lab topics
 
-- RNA-Seq from raw data to DESeq2: (quasi-)alignment, quantification at gene and transcript level, gamma-Poisson model, DESeq2 <!-- Mike Love -->
-- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) <!-- Davide Risso -->
-- Visualisation / graphics <!-- Wolfgang Huber -->, PCA and other low-dimensional embeddings <!-- Charlotte Soneson -->, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples) <!-- Vincent Carey -->
+- RNA-Seq from raw data to DESeq2: mapping, quantification at gene and transcript level, gamma-Poisson model, DESeq2
+- Single cell (droplet based) RNA-seq: exploratory analysis, quality assessment, dimension reduction (incl., t-SNE, UMAP) 
+- Visualisation / graphics, PCA and other low-dimensional embeddings, Clustering, distances, nearest-neighbour graphs (with sc-RNA-Seq examples)
 - Statistical hypothesis testing, false discovery rate, multiple testing, filtering and weighting
-- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data <!-- Charlotte Soneson, Robert Gentleman -->
-- Classification / supervised machine learning <!-- Robert Gentleman -->
-- Image-based data and Spatial omics (CODEX, MERFISH et al.) <!-- Wolfgang Huber -->
+- Regression: more on design matrices, power, identifiability, diagnostics, generalized linear models for count data
+- Classification / supervised machine learning
+- Image-based data and Spatial omics (CODEX, MERFISH et al.)
 - Introduction to the Bioconductor project (community, organisational structure, website, important infrastructure packages, data structures, annotation resources) <!-- Lori Kern -->
 - Immunobioinformatics  <!-- Katharina Imkeller -->
 - Mass spectrometry-based proteomics and metabolomics <!-- Laurent Gatto, Johannes Rainer --> 
@@ -58,7 +58,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 02</strong></td>
-			<td>PCA and other low-dimensional embeddings (Charlotte Soneson)</td>
+			<td>PCA and other low-dimensional embeddings (Robert Gentleman)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -72,7 +72,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 04</strong></td>
-			<td>Regression (Robert Gentleman)</td>
+			<td>Design of High Throughput Experiments and their Analysis (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
@@ -112,7 +112,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<ul>
               <li>Group projects (Vincent Carey, Robert Gentleman)
  			  <li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
- 			  <li>Emerging topic
+ 			  <li>Tidy analysis of genomic data with <a href="https://sa-lee.github.io/plyranges/">plyranges</a> and other packages (Michael Love)
 			</ul>
 			</td>
 		</tr>
@@ -132,12 +132,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 05</strong></td>
-			<td>RNA-Seq (Michael Love)</td>
+			<td>RNA-Seq intro: biology of transcription, quantification, batch effects and QC (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 06</strong></td>
-			<td>Linear models for RNA-Seq ()</td>
+			<td>RNA-Seq for DE: Types of DE, modeling counts, scaling, transcript lengths, parameter estimation (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -201,7 +201,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Group discussions on the lawn</strong></td>
 			<td>
 			<ul>
-			  <li>... participants suggestions welcome!
+			  <li>... <selected from participants' suggestions> ...
 			  <li>Reproducible research and open science (Laurent, Charlotte) 
 			  <li>HDF5 / large datasets (Davide)
 			  <li>Spatial omics (Wolfgang)
@@ -219,12 +219,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 09</strong></td>
-			<td>Human Cell Atlas | Ontologies | Shiny (Vincent Carey)</td>
+			<td>Human Cell Atlas |> Ontologies |> Shiny %<>% Bioconductor (Vincent Carey)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 10</strong></td>
-			<td>...</td>
+			<td>Spatial (transcript)omics (Davide Risso)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -233,7 +233,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>...</td>
+			<td>Advanced transcriptomic inference: transcript-level inferential error, pseudo-bulking, double-dipping (Michael Love and Charlotte Soneson)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -259,12 +259,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 13</strong></td>
-			<td>Mass spectrometry-based proteomics (Laurent Gatto)</td>
+			<td>Mass spectrometry-based proteomics, incl. single-cell (Laurent Gatto)</td>
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
 			<td><strong>Lecture 14</strong></td>
-			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
+			<td>Mass spectrometry-based metabolomics (Johannes Rainer)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
@@ -273,12 +273,12 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:30</td>
 			<td><strong>Lecture 15</strong></td>
-			<td>Supervised machine learning (Robert Gentleman)</td>
+			<td>Regression (Sarah Kaspar)</td>
 		</tr>
 		<tr>
 			<td>11:30–12:00</td>
 			<td><strong>Lecture 16</strong></td>
-			<td>Mass spectrometry-based metabolomics (Johannes Rainer)</td>
+			<td><a href="https://www.huber.embl.de/msmb/Chap-Graphics.html">Visualization</a> (Wolfgang Huber)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
@@ -287,7 +287,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
+			<td>Proteomics/metabolomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -297,7 +297,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
-			<td>...</td>
+			<td>Tidy genomic analysis workflows (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -326,7 +326,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>(Generalized) Linear Models</td> -->
+			<td>Supervised machine learning (Robert Gentleman)</td> 
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
@@ -340,7 +340,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 19</strong></td>
-			<td>Emerging topic</td>
+			<td>Advanced single cell omics II: Trajectories, pseudo-time, bifurcations, spatial statistics (Charlotte | Davide | Wolfgang)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -354,7 +354,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 5</strong></td>
-			<td>Proteomics (Laurent Gatto, Johannes Rainer)</td>
+			<td>Proteomics/metabolomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -364,7 +364,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
-			<td>...</td>
+			<td>Tidy genomic analysis workflows (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
