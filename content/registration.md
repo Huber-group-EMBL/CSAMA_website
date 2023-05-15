@@ -27,6 +27,9 @@ Speakers and programme agenda are subject to change.
 
 ## Register for CSAMA 2023
 
+Registration is now closed
+
+<!--
 <div class="container">
 <form name="register" 
       method="post" 
@@ -126,5 +129,5 @@ Speakers and programme agenda are subject to change.
 
 </form>
 </div>
-
+-->
 
