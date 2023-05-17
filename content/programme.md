@@ -324,7 +324,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td width="100ex">08:30–09:15</td>
 			<td width="90ex"><strong>Lecture 17</strong></td>
-			<td>Supervised machine learning (Robert Gentleman)</td> 
+			<td>Machine learning (Robert Gentleman)</td> 
 		</tr>
 		<tr>
 			<td>09:15–10:00</td>
@@ -343,7 +343,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 20</strong></td>
-			<td>Group projects (Vincent Carey)</td>
+			<td>Group projects (Robert Gentleman, Vincent Carey)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
