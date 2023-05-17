@@ -190,22 +190,20 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Demos / pitches</strong></td>
 			<td>
 			<ul>
+			  <li>What you need to know for submitting a package to Bioconductor (Lori Kern)
 			  <li>Reproducible research and open science (Laurent Gatto, Charlotte Soneson)
 		      <li>Shiny (Vincent Carey) 
-			  <li>What you need to know for submitting a package to Bioconductor (Lori Kern)
 	        </ul>
 			</td>
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
 			<td><strong>Follow-up discussions on the lawn</strong></td>
-			<td>
-			<ul>
+			<td><ul><!--
 			  <li>... <selected from participants' suggestions> ...
 			  <li>Spatial omics (Wolfgang)
-			  <li>Publishing computational research (Vince, Robert)
-			</ul>
-			</td>
+			  <li>Publishing computational research (Vince, Robert)-->
+			</ul></td>
 		</tr>
 	</tbody>
 </table>
