@@ -98,6 +98,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 					<li>selected from participants</li>
 					<li>selected from participants</li>
 				</ul>
+				Each talk 5 min + 2 min questions
 			</td>
 		</tr>
 		<tr>
@@ -178,6 +179,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 					<li>selected from participants</li>
 					<li>selected from participants</li>
 				</ul>
+				Each talk 5 min + 2 min questions
 			</td>
 		</tr>
 		<tr>
@@ -375,9 +377,6 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 	</tbody>
 </table>
 
-### Flashlight talks
-
-Each talk 5 min + 2 min questions
 
 ### Lecturers and Teaching Assistants
 
