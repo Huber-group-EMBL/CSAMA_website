@@ -187,7 +187,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td><strong>Demos / pitches</strong></td>
+			<td><strong>Demos / tutorials</strong></td>
 			<td>
 			<ul>
 			  <li>What you need to know for submitting a package to Bioconductor (Lori Kern)
