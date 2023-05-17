@@ -107,18 +107,19 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
-			<td><strong>Demos</strong></td>
+			<td><strong>Group work | Demos</strong></td>
 			<td>
 			<ul>
               <li>Group projects (Vincent Carey, Robert Gentleman)
  			  <li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
  			  <li>Tidy analysis of genomic data with <a href="https://sa-lee.github.io/plyranges/">plyranges</a> and other packages (Michael Love)
+              <li>HDF5 / large single-cell datasets (Davide Risso)
 			</ul>
 			</td>
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
-			<td><strong>Discussion sessions</strong></td>
+			<td><strong>Follow-up discussions on the lawn</strong></td>
 			<td><ul>
 			</ul></td>
 		</tr>
@@ -191,19 +192,16 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<ul>
 			  <li>Reproducible research and open science (Laurent Gatto, Charlotte Soneson)
 		      <li>Shiny (Vincent Carey) 
-              <li>HDF5 / large single-cell datasets (Davide Risso)
-			  <li>Emerging topic
+			  <li>What you need to know for submitting a package to Bioconductor (Lori Kern)
 	        </ul>
 			</td>
 		</tr>
 		<tr>
 			<td>21:15–22:00</td>
-			<td><strong>Group discussions on the lawn</strong></td>
+			<td><strong>Follow-up discussions on the lawn</strong></td>
 			<td>
 			<ul>
 			  <li>... <selected from participants' suggestions> ...
-			  <li>Reproducible research and open science (Laurent, Charlotte) 
-			  <li>HDF5 / large datasets (Davide)
 			  <li>Spatial omics (Wolfgang)
 			  <li>Publishing computational research (Vince, Robert)
 			</ul>
@@ -238,7 +236,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>11:15–12:00</td>
 			<td><strong>Lecture 12</strong></td>
-			<td>Bioconductor Annotation Resources (Lori Kern)</td>
+			<td>Bioconductor Annotation Resources | Caching (Lori Kern)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
