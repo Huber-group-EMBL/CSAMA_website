@@ -62,7 +62,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
-			<td colspan="2"><em>Coffee break</em></td>
+			<td colspan="2"><em>Coffee</em></td>
 		</tr>
 		<tr>
 			<td>10:30–11:15</td>
@@ -76,7 +76,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–13:30</td>
-			<td colspan="2"><em>Lunch break</em></td>
+			<td colspan="2"><em>Lunch</em></td>
 		</tr>
 		<tr>
 			<td>13:30–14:00</td>
@@ -142,7 +142,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
-			<td colspan="2"><em>Coffee break</em></td>
+			<td colspan="2"><em>Coffee</em></td>
 		</tr>
 		<tr>
 			<td>10:30–11:15</td>
@@ -156,7 +156,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch break</em></td>
+			<td colspan="2"><em>Lunch</em></td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -224,7 +224,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
-			<td colspan="2"><em>Coffee break</em></td>
+			<td colspan="2"><em>Coffee</em></td>
 		</tr>
 		<tr>
 			<td>10:30–11:15</td>
@@ -238,7 +238,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch break</em></td>
+			<td colspan="2"><em>Lunch</em></td>
 		</tr>
 		<tr>
 			<td>14:00–22:30</td>
@@ -264,7 +264,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
-			<td colspan="2"><em>Coffee break</em></td>
+			<td colspan="2"><em>Coffee</em></td>
 		</tr>
 		<tr>
 			<td>10:30–11:30</td>
@@ -278,7 +278,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch break</em></td>
+			<td colspan="2"><em>Lunch</em></td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -331,7 +331,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>10:00–10:30</td>
-			<td colspan="2"><em>Coffee break</em></td>
+			<td colspan="2"><em>Coffee</em></td>
 		</tr>
 		<tr>
 			<td>10:30–11:15</td>
@@ -345,7 +345,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch break</em></td>
+			<td colspan="2"><em>Lunch</em></td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
