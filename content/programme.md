@@ -352,26 +352,31 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
-			<td>14:00–17:00</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 5</strong></td>
 			<td>Proteomics/metabolomics (Laurent Gatto, Johannes Rainer)</td>
 		</tr>
 		<tr>
-			<td>14:00–17:00</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 6</strong></td>
 			<td>Multiple testing and FDR (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td>14:00–17:00</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 7</strong></td>
 			<td>Tidy genomic analysis workflows (Michael Love)</td>
 		</tr>
 		<tr>
-			<td>14:00–17:00</td>
+			<td>14:00–16:30</td>
 			<td><strong>Lab 9</strong></td>
 			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
+			<td>16:30-17:00</td>
+			<td><strong>Q&A</strong></td>
+			<td>Career panel (open questions for instructors)</td>
+		</tr>
+        <tr>
 			<td>17:00</td>
 			<td>&nbsp;</td>
 			<td>Closing remarks</td>
