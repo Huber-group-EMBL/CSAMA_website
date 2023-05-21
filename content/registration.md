@@ -27,6 +27,9 @@ Speakers and programme agenda are subject to change.
 
 ## Register for CSAMA 2023
 
+CSAMA 2023 is nearly fully booked.  Please send a message to info (at) bioconductor.eu if you still would like to be put on the waiting list for the summer school. There are often late cancellations and we will contact you to let you know if any spaces become available.
+
+<!--
 <div class="container">
 <form name="register" 
       method="post" 
@@ -126,5 +129,5 @@ Speakers and programme agenda are subject to change.
 
 </form>
 </div>
-
+-->
 
