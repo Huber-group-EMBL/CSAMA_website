@@ -36,8 +36,8 @@ If you are paying for multiple participants you can add each of them to the bask
 	<option value="COM NO VAT">COM NO VAT €2.250,00 EUR</option>
 	<option value="COM PLUS VAT 22%">COM PLUS VAT 22% €2.745,00 EUR</option>
 </select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Participant Name and Last Name">Participant Name and Last Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
-<tr><td><input type="hidden" name="on2" value="Contact email">Contact email</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on1" value="Participant Name and Last Name">Participant Name and Last Name</td></tr><tr><td><input type="text" name="os1" maxlength="200" required></td></tr>
+<tr><td><input type="hidden" name="on2" value="Contact email">Contact email</td></tr><tr><td><input type="text" name="os2" maxlength="200" required></td></tr>
 </table>
 <input type="hidden" name="currency_code" value="EUR">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
