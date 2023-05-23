@@ -7,7 +7,7 @@ description = "Registration"
 
 {{< feeTable >}}
 
-The course fees include participation in the lectures, the computer tutorials and all other events: coffee breaks, Wednesday’s social programme and dinner, course material.
+The course fees include participation in the lectures, the computer tutorials and all other events: coffee breaks, Wednesday’s social programme and dinner, course material. Lunch is not included.
 
 Places are awarded on a first-come, first-served basis. In previous years the course was sold out. 
 

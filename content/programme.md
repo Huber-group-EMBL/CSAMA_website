@@ -75,8 +75,8 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Design of High Throughput Experiments and their Analysis (Charlotte Soneson)</td>
 		</tr>
 		<tr bgcolor="#eeeeee">
-			<td>12:00–13:30</td>
-			<td colspan="2"><em>Lunch</em></td>
+			<td>12:00–14:00</td>
+			<td colspan="2"><em>Lunch break (Self sourced in Brixen)</em></td>
 		</tr>
 		<tr>
 			<td>13:30–14:00</td>
@@ -157,7 +157,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch</em></td>
+			<td colspan="2"><em>Lunch break (Self sourced in Brixen)</em></td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -240,7 +240,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch</em></td>
+			<td colspan="2"><em>Lunch break (Self sourced in Brixen)</em></td>
 		</tr>
 		<tr>
 			<td>14:00–22:30</td>
@@ -280,7 +280,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch</em></td>
+			<td colspan="2"><em>Lunch break (Self sourced in Brixen)</em></td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -347,7 +347,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		</tr>
 		<tr bgcolor="#eeeeee">
 			<td>12:00–14:00</td>
-			<td colspan="2"><em>Lunch</em></td>
+			<td colspan="2"><em>Lunch break</em></td>
 		</tr>
 		<tr>
 			<td>14:00–16:30</td>
