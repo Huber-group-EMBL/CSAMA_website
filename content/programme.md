@@ -104,7 +104,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>20:10–22:00</td>
 			<td><strong>Evening session</strong></td>
-			<td>Beer and pizza will be provided</td>
+			<td>Drinks will be provided</td>
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
@@ -185,7 +185,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>20:10–22:00</td>
 			<td><strong>Evening session</strong></td>
-			<td>Beer and pizza will be provided</td>
+			<td>Drinks will be provided</td>
 		</tr>
 		<tr>
 			<td>20:30–21:15</td>
