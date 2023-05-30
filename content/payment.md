@@ -23,23 +23,22 @@ If you are paying for multiple participants you can add each of them to the bask
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="AYELHX7KP4JSW">
+<input type="hidden" name="hosted_button_id" value="9LQTEYTN76DME">
 <input type="hidden" name="shopping_url" value="https://csama2023.bioconductor.eu/payment/"> 
 <input type="hidden" name="return" value="https://csama2023.bioconductor.eu/success/"> 
 <input type="hidden" name="cancel_return" value="https://csama2023.bioconductor.eu/cancellation/">
 <table>
 <tr><td><input type="hidden" name="on0" value="Registration Fees">Registration Fees</td></tr><tr><td><select name="os0">
-	<option value="STU NO VAT">STU NO VAT €960,00 EUR</option>
-	<option value="STU PLUS VAT 22%">STU PLUS VAT 22% €1.171,20 EUR</option>
-	<option value="ACA NO VAT">ACA NO VAT €1.300,00 EUR</option>
-	<option value="ACA PLUS VAT 22%">ACA PLUS VAT 22% €1.586,00 EUR</option>
-	<option value="COM NO VAT">COM NO VAT €2.250,00 EUR</option>
-	<option value="COM PLUS VAT 22%">COM PLUS VAT 22% €2.745,00 EUR</option>
+	<option value="STU (NO VAT)">STU (NO VAT) €960,00 EUR</option>
+	<option value="ACA (NO VAT)">ACA (NO VAT) €1.300,00 EUR</option>
+	<option value="COM (NO VAT)">COM (NO VAT) €2.250,00 EUR</option>
+	<option value="STU +22% VAT">STU +22% VAT €1.171,20 EUR</option>
+	<option value="ACA +22% VAT">ACA +22% VAT €1.586,00 EUR</option>
+	<option value="COM +22% VAT">COM +22% VAT €2.745,00 EUR</option>
 </select> </td></tr>
-<tr><td><input type="hidden" name="on1" value="Participant Name and Last Name">Participant Name and Last Name</td></tr><tr><td><input type="text" name="os1" maxlength="200" required></td></tr>
-<tr><td><input type="hidden" name="on2" value="Contact email">Contact email</td></tr><tr><td><input type="text" name="os2" maxlength="200" required></td></tr>
+<tr><td><input type="hidden" name="on1" value="Participant">Participant</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
 </table>
 <input type="hidden" name="currency_code" value="EUR">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
