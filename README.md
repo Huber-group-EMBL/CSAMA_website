@@ -31,5 +31,8 @@ and view the results at http://localhost:1313/
 
 Any push to the `2023` branch of this repository will trigger a rebuild of the website. The site is hosted and deployed by [Netlify](https://www.netlify.com/) using the Bioconductor Open Source Software team.  If you have a Netlify account contact one of the administrators of that team (currently Mikhail Dozmorov, Mike Smith, Charlotte Soneson, Martin Morgan) know and they'll add you to the Bioconductor team on Netlify so you can view the details of any build/errors etc.
 
+## Package Installation
 
+The script sent to students before the course starts can be found in [`static/install_packages.R`](static/install_packages.R).  The list of 
+packages is generated from `REQUIRED_PACKAGES` in https://github.com/Bioconductor/CSAMA
 
