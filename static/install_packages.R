@@ -7,10 +7,16 @@
 ##---------------------------
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-if (!requireNamespace("remotes", quietly = TRUE))
+if (!requireNamespace("remotes", quietly = TRUE)) {
+  suppressMessages(
     BiocManager::install("remotes", quiet = TRUE, update = FALSE, ask = FALSE)
-if (!requireNamespace("Biobase", quietly = TRUE))
+  )
+}
+if (!requireNamespace("Biobase", quietly = TRUE)) {
+  suppressMessages(
     BiocManager::install("Biobase", quiet = TRUE, update = FALSE, ask = FALSE)
+  )
+}
 
 ##-------------------------------------------
 ## installation function
@@ -136,18 +142,25 @@ if( BiocManager::version() != .required_Bioc_version )
 ##.  stringr::str_trim() |>
 ##   stringr::str_c(collapse = "','") |> 
 ##   sprintf(fmt = "'%s'")
-deps <- c('hca','celldex','MASS','SummarizedExperiment','TENxPBMCData','SingleCellExperiment','scater','SingleR','devtools','DT',
-          'LoomExperiment','scuttle','rols','ontoProc','shiny','Spectra','mzR','QFeatures','MsCoreUtils','scp','scpdata','MsDataHub',
-          'rpx','tidyverse','factoextra','msdata','rhdf5','ProtGenerics','PSMatch','pheatmap','limma','RforMassSpectrometry/SpectraVis',
-          'RforMassSpectrometry/Spectra','RforMassSpectrometry/MsCoreUtils','MsExperiment','MetaboCoreUtils','MetaboAnnotation','png',
-          'sneumann/xcms','jorainer/SpectraTutorials','jorainer/MetaboAnnotationTutorials','jorainer/xcmsTutorials','mikelove/airway2',
-          'tximeta','DESeq2','org.Hs.eg.db','vsn','ExploreModelMatrix','apeglm','iSEE','iSEEu','edgeR','BiocStyle','knitr','rjson',
-          'AnnotationDbi','muscat','scran','igraph','csoneson/ConfoundingExplorer','htmltools','rmarkdown','dplyr','ggplot2','tximport',
-          'airway','AnnotationHub','BiocCheck','BiocFileCache','BiocManager','BiocParallel','biocthis','biomaRt','Biostrings','BSgenome',
-          'BSgenome.Hsapiens.UCSC.hg19','BSgenome.Hsapiens.UCSC.hg38','ensembldb','EnsDb.Hsapiens.v86','ExperimentHub','GenomicAlignments',
-          'GenomicRanges','GenomicFeatures','Gviz','Homo.sapiens','HubPub','hugene20sttranscriptcluster.db','IRanges','KEGGREST',
-          'Organism.dplyr','readr','rtracklayer','Rsamtools','RNAseqData.HNRNPC.bam.chr14','tibble','tidyr','TxDb.Hsapiens.UCSC.hg19.knownGene',
-          'TxDb.Hsapiens.UCSC.hg38.knownGene','VariantAnnotation')
+deps <- c('hca','celldex','MASS','SummarizedExperiment','TENxPBMCData','SingleCellExperiment','scater',
+          'SingleR','devtools','DT','LoomExperiment','scuttle','rols','ontoProc','shiny','vjcitn/csamaDist',
+          'Spectra','mzR','QFeatures','MsCoreUtils','scp','scpdata','MsDataHub','rpx','tidyverse','factoextra',
+          'msdata','rhdf5','impute','ProtGenerics','PSMatch','pheatmap','limma','RforMassSpectrometry/SpectraVis',
+          'OSCA.intro','OSCA.basic','OSCA.advanced','OSCA.multisample','OSCA.workflows','ade4','airway',
+          'Biobase','dplyr','factoextra','GGally','ggplot2','Hiiragi2013','pheatmap','phyloseq',
+          'RforMassSpectrometry/Spectra','RforMassSpectrometry/MsCoreUtils','MsExperiment','MetaboCoreUtils',
+          'MetaboAnnotation','png','sneumann/xcms','jorainer/SpectraTutorials',
+          'jorainer/MetaboAnnotationTutorials','jorainer/xcmsTutorials','DropletTestFiles','DropletUtils',
+          'EnsDb.Hsapiens.v86','scran','scDblFinder','scry','NewWave','GGally','igraph','mikelove/airway2',
+          'tximeta','DESeq2','org.Hs.eg.db','vsn','ExploreModelMatrix','apeglm','iSEE','iSEEu','edgeR',
+          'BiocStyle','knitr','rjson','AnnotationDbi','muscat','csoneson/ConfoundingExplorer','htmltools',
+          'rmarkdown','dplyr','ggplot2','tximport','airway','AnnotationHub','BiocCheck','BiocFileCache',
+          'BiocManager','BiocParallel','biocthis','biomaRt','Biostrings','BSgenome','BSgenome.Hsapiens.UCSC.hg19',
+          'BSgenome.Hsapiens.UCSC.hg38','ensembldb','ExperimentHub','GenomicAlignments','GenomicRanges',
+          'GenomicFeatures','Gviz','Homo.sapiens','HubPub','hugene20sttranscriptcluster.db','IRanges',
+          'KEGGREST','Organism.dplyr','readr','rtracklayer','Rsamtools','RNAseqData.HNRNPC.bam.chr14',
+          'tibble','tidyr','TxDb.Hsapiens.UCSC.hg19.knownGene','TxDb.Hsapiens.UCSC.hg38.knownGene',
+          'VariantAnnotation')
 deps <- data.frame(name = gsub(x = deps, "^[[:alnum:]]+/", ""),
                   source = deps, 
                   stringsAsFactors = FALSE)
@@ -162,19 +175,11 @@ toInstall = deps[which( !deps$name %in% rownames(installed.packages())), "source
 ##---------------------------
 ## Additional installation commands
 ## If a lab requires something outside the norm, install it here
-## e.g non-standard package versions, ExperimentHub downloads, etc
+## e.g non-standard package versions
 ##---------------------------
 if((!"xcms" %in% toInstall) || (Biobase::package.version("xcms") < "3.99.0")) {
   BiocManager::install("sneumann/xcms", ask = FALSE, quiet = TRUE, update = FALSE)
 }
-
-#TENxPBMCData::TENxPBMCData(dataset = "pbmc3k")
-#TENxPBMCData::TENxPBMCData(dataset = "pbmc4k")
-
-#library("ensembldb")
-#ah <- AnnotationHub::AnnotationHub()
-#ah_91 <- AnnotationHub::query(ah, "EnsDb.Hsapiens.v91")
-#edb <- ah[[names(ah_91)]]
 
 
 ##---------------------------
@@ -187,6 +192,13 @@ if(.Platform$OS.type == "windows" || Sys.info()["sysname"] == "Darwin") {
 } else {
   fail <- installer_with_progress(toInstall)
 }
+
+##---------------------------
+## Download required datasets
+##---------------------------
+
+DropletTestFiles::getTestFile("tenx-2.1.0-pbmc4k/1.0.0/raw.tar.gz")
+celldex::MonacoImmuneData()
 
 ##-------------------------
 ## Feedback on installation
