@@ -135,17 +135,20 @@ if( BiocManager::version() != .required_Bioc_version )
 ##.  stringr::str_trim() |>
 ##   stringr::str_c(collapse = "','") |> 
 ##   sprintf(fmt = "'%s'")
-deps <- c('Spectra','mzR','QFeatures','MsCoreUtils','scp','scpdata','SingleCellExperiment','MsDataHub','rpx','tidyverse','factoextra','msdata','rhdf5',
-          'ProtGenerics','PSMatch','pheatmap','limma','ProtGenerics','RforMassSpectrometry/SpectraVis','RforMassSpectrometry/Spectra',
-          'RforMassSpectrometry/MsCoreUtils','MsExperiment','MetaboCoreUtils','MetaboAnnotation','png','sneumann/xcms','jorainer/SpectraTutorials',
-          'jorainer/MetaboAnnotationTutorials','jorainer/xcmsTutorials','mikelove/airway2','tximeta','DESeq2','org.Hs.eg.db','SummarizedExperiment',
-          'vsn','ExploreModelMatrix','apeglm','iSEE','pheatmap','iSEEu','edgeR','BiocStyle','knitr','rjson','AnnotationDbi','shiny','muscat',
-          'scran','scuttle','scater','igraph','csoneson/ConfoundingExplorer','TENxPBMCData','SingleCellExperiment','htmltools','rmarkdown','dplyr',
-          'ggplot2','tximport','airway','AnnotationDbi','AnnotationHub','BiocCheck','BiocFileCache','BiocManager','BiocParallel','biocthis','biomaRt',
-          'Biostrings','BSgenome','BSgenome.Hsapiens.UCSC.hg19','BSgenome.Hsapiens.UCSC.hg38','devtools','dplyr','ensembldb','EnsDb.Hsapiens.v86',
-          'ExperimentHub','GenomicAlignments','GenomicRanges','GenomicFeatures','ggplot2','Gviz','Homo.sapiens','HubPub','hugene20sttranscriptcluster.db',
-          'IRanges','KEGGREST','org.Hs.eg.db','Organism.dplyr','readr','rtracklayer','Rsamtools','RNAseqData.HNRNPC.bam.chr14','SummarizedExperiment',
-          'tibble','tidyr','tidyverse','TxDb.Hsapiens.UCSC.hg19.knownGene','TxDb.Hsapiens.UCSC.hg38.knownGene','VariantAnnotation')
+deps <- c('hca','celldex','MASS','SummarizedExperiment','TENxPBMCData','SingleCellExperiment','scater','SingleR','devtools','hca',
+          'DT','LoomExperiment','scater','scuttle','rols','ontoProc','shiny','Spectra','mzR','QFeatures','MsCoreUtils','scp','scpdata',
+          'SingleCellExperiment','MsDataHub','rpx','tidyverse','factoextra','msdata','rhdf5','ProtGenerics','PSMatch','pheatmap','limma',
+          'ProtGenerics','RforMassSpectrometry/SpectraVis','RforMassSpectrometry/Spectra','RforMassSpectrometry/MsCoreUtils','MsExperiment',
+          'MetaboCoreUtils','MetaboAnnotation','png','sneumann/xcms','jorainer/SpectraTutorials','jorainer/MetaboAnnotationTutorials',
+          'jorainer/xcmsTutorials','mikelove/airway2','tximeta','DESeq2','org.Hs.eg.db','SummarizedExperiment','vsn','ExploreModelMatrix',
+          'apeglm','iSEE','pheatmap','iSEEu','edgeR','BiocStyle','knitr','rjson','AnnotationDbi','shiny','muscat','scran','scuttle','scater',
+          'igraph','csoneson/ConfoundingExplorer','TENxPBMCData','SingleCellExperiment','htmltools','rmarkdown','dplyr','ggplot2','tximport',
+          'airway','AnnotationDbi','AnnotationHub','BiocCheck','BiocFileCache','BiocManager','BiocParallel','biocthis','biomaRt','Biostrings',
+          'BSgenome','BSgenome.Hsapiens.UCSC.hg19','BSgenome.Hsapiens.UCSC.hg38','devtools','dplyr','ensembldb','EnsDb.Hsapiens.v86',
+          'ExperimentHub','GenomicAlignments','GenomicRanges','GenomicFeatures','ggplot2','Gviz','Homo.sapiens','HubPub',
+          'hugene20sttranscriptcluster.db','IRanges','KEGGREST','org.Hs.eg.db','Organism.dplyr','readr','rtracklayer','Rsamtools',
+          'RNAseqData.HNRNPC.bam.chr14','SummarizedExperiment','tibble','tidyr','tidyverse','TxDb.Hsapiens.UCSC.hg19.knownGene',
+          'TxDb.Hsapiens.UCSC.hg38.knownGene','VariantAnnotation')
 deps <- data.frame(name = gsub(x = deps, "^[[:alnum:]]+/", ""),
                   source = deps, 
                   stringsAsFactors = FALSE)
