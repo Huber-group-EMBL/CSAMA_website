@@ -159,8 +159,10 @@ toInstall = deps[which( !deps$name %in% rownames(installed.packages())), "source
 ## If a lab requires something outside the norm, install it here
 ## e.g non-standard package versions
 ##---------------------------
-if((!"xcms" %in% toInstall) || (Biobase::package.version("xcms") < "3.99.0")) {
-  BiocManager::install("sneumann/xcms", ask = FALSE, quiet = TRUE, update = FALSE)
+if(("xcms" %in% toInstall) || (Biobase::package.version("xcms") < "3.99.0")) {
+  suppressMessages(
+    BiocManager::install("sneumann/xcms", ask = FALSE, quiet = TRUE, update = FALSE)
+  )
 }
 
 
