@@ -157,21 +157,14 @@ deps <- data.frame(name = gsub(x = deps, "^[[:alnum:]]+/", ""),
 #}
 toInstall = deps[which( !deps$name %in% rownames(installed.packages())), "source"]
 
-# do not compile from sources
-options(install.packages.compile.from.source = "never")
-if(.Platform$OS.type == "windows" || Sys.info()["sysname"] == "Darwin") {
-  BiocManager::install(toInstall, ask = FALSE, quiet = TRUE, update = FALSE)
-} else {
-  fail <- installer_with_progress(toInstall)
-}
-
 ##---------------------------
 ## Additional installation commands
 ## If a lab requires something outside the norm, install it here
+## e.g non-standard package versions, ExperimentHub downloads, etc
 ##---------------------------
-#if(Biobase::package.version("msdata") < "0.24.1") {
-#  BiocManager::install(msdata, ask = FALSE, quiet = TRUE, update = FALSE)
-#}
+if((!"xcms" %in% toInstall) && (Biobase::package.version("xcms") < "3.99.0")) {
+  BiocManager::install("sneumann/xcms", ask = FALSE, quiet = TRUE, update = FALSE)
+}
 
 #TENxPBMCData::TENxPBMCData(dataset = "pbmc3k")
 #TENxPBMCData::TENxPBMCData(dataset = "pbmc4k")
@@ -181,26 +174,37 @@ if(.Platform$OS.type == "windows" || Sys.info()["sysname"] == "Darwin") {
 #ah_91 <- AnnotationHub::query(ah, "EnsDb.Hsapiens.v91")
 #edb <- ah[[names(ah_91)]]
 
+
+##---------------------------
+## Install the required packages
+##---------------------------
+# do not compile from sources
+options(install.packages.compile.from.source = "never")
+if(.Platform$OS.type == "windows" || Sys.info()["sysname"] == "Darwin") {
+  BiocManager::install(toInstall, ask = FALSE, quiet = TRUE, update = FALSE)
+} else {
+  fail <- installer_with_progress(toInstall)
+}
+
 ##-------------------------
 ## Feedback on installation
 ##---------------------------
 if(all( deps$name %in% rownames(installed.packages()) )) {
   cat(sprintf("\nCongratulations! All packages were installed successfully :)\nWe are looking forward to seeing you in Brixen!\n\n"))
 } else {
-  notinstalled <- deps[which( !deps$name %in% rownames(installed.packages()) ), "name"]
-
+  notinstalled <- deps[which( !deps$name %in% rownames(installed.packages()) ), ]
 
   if( .Platform$pkgType == "win.binary" & 'Rsubread' %in% notinstalled ){
     cat("The windows binaries for the package 'Rsubread' are not available. However, this package is not 100% necessary for the practicals. If this is the only package
     that was not installed, there is no reason to worry. \n")
   }
   
-  cat(sprintf("\nThe following package%s not installed:\n\n%s\n\n", if (length(notinstalled)<=1) " was" else "s were", paste( notinstalled, collapse="\n" )))
+  cat(sprintf("\nThe following package%s not installed:\n\n%s\n\n", if (length(notinstalled)<=1) " was" else "s were", paste( notinstalled$name, collapse="\n" )))
   
   if( .Platform$pkgType != "source" ){
       message("Please try re-running the script to see whether the problem persists.")
   } else {
-      install_command <- paste0("BiocManager::install(c('", paste(notinstalled, collapse = "', '"), "')")
+      install_command <- paste0("BiocManager::install(c('", paste(notinstalled$source, collapse = "', '"), "')")
       message("Please try running the following command to attempt installation again:\n\n",
       install_command, "\n\n")
   }
@@ -208,6 +212,8 @@ if(all( deps$name %in% rownames(installed.packages()) )) {
   message("If you need help with troubleshooting, please contact the course organisers, or the CSAMA'23 Slack channel (https://csama-2023.slack.com).")
   
   if( .Platform$pkgType == "source" ){
-    message("Some of the packages (e.g. 'Cairo', 'mzR', rgl', 'RCurl', 'tiff', 'XML') that failed to install may require additional system libraries.*  Please check the documentation of these packages for unsatisfied dependencies.\n A list of required libraries for Ubuntu can be found at http://www.huber.embl.de/users/msmith/csama2019/linux_libraries.html \n\n")
+    message("Some of the packages (e.g. 'Cairo', 'mzR', rgl', 'RCurl', 'tiff', 'XML') that failed to install may require additional system libraries.*",
+    "Please check the documentation of these packages for unsatisfied dependencies.\n",
+    "A list of required libraries for Ubuntu can be found at https://csama2023.bioconductor.eu/linux_libraries.html \n\n")
   }
 }
