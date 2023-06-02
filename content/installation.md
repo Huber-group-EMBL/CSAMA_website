@@ -7,9 +7,8 @@ Due to the limited Internet connectivity at the course venue, it is necessary th
 
 1. Please install the current release version of R (version 4.3.0).  For more instructions, please check https://cran.r-project.org/
 
-2. Please install and set up Git. Jenny Bryan has some excellent instructions available at http://happygitwithr.com/install-git.html
-
-If you are using Windows we recommend Git-For-Windows (https://git-for-windows.github.io/) and if you are using a Mac our suggestion is Git-SCM (https://git-scm.com/downloads)
+2. Please install and set up Git. Jenny Bryan has some excellent instructions available at http://happygitwithr.com/install-git.html<br><p>
+  If you are using Windows we recommend Git-For-Windows (https://git-for-windows.github.io/) and if you are using a Mac our suggestion is Git-SCM (https://git-scm.com/downloads)
 
 3. Install a recent version of RStudio. Instructions are available here: https://posit.co/download/rstudio-desktop/
 
