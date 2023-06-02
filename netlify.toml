@@ -25,3 +25,8 @@
   for = "/programme*"
   [headers.values]
     X-Robots-Tag = "noindex"
+    
+[[headers]]
+  for = "/installation"
+  [headers.values]
+    X-Robots-Tag = "noindex"
