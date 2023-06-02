@@ -93,10 +93,11 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
+				  <li>Julia Philipp</li>
+					<li>Sara Lobato Moreno</li>
+					<li>Jamie Yam Auxillos</li>
+					<li>Caroline Lohoff</li>
+					<li>Dawn Shuiping Lin </li>
 				</ul>
 				Each talk 5 min + 2 min questions
 			</td>
@@ -174,10 +175,10 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
+					<li>Giulia Graziano</li>
+					<li>Karin Prummel</li>
+					<li>James Bryson</li>
+					<li>Alina Batzilla</li>
 				</ul>
 				Each talk 5 min + 2 min questions
 			</td>
@@ -307,10 +308,10 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td><strong>Flashlight talks</strong></td>
 			<td>
 				<ul>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
-					<li>selected from participants</li>
+					<li>Felina Lenkeit</li>
+					<li>Anna Diamant</li>
+					<li>Mathilde Moens</li>
+					<li>Gaël Hammer</li>
 				</ul>
 			</td>
 		</tr>
