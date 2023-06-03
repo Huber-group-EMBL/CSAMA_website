@@ -232,7 +232,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>10:30–11:15</td>
 			<td><strong>Lecture 11</strong></td>
-			<td>Advanced transcriptomic inference: transcript-level inferential error, pseudo-bulking, double-dipping (Michael Love and Charlotte Soneson)</td>
+			<td>Advanced transcriptomic inference: bootstrapping (transcript-level inferential uncertainty), pseudo-bulking, double-dipping (Michael Love and Charlotte Soneson)</td>
 		</tr>
 		<tr>
 			<td>11:15–12:00</td>
@@ -296,7 +296,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Tidy genomic analysis workflows (Michael Love)</td>
+			<td><a href="https://nullranges.github.io/tidy-ranges-tutorial/">Tidy genomic analysis workflows</a> (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
@@ -363,7 +363,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–16:30</td>
 			<td><strong>Lab 7</strong></td>
-			<td>Tidy genomic analysis workflows (Michael Love)</td>
+			<td><a href="https://nullranges.github.io/tidy-ranges-tutorial/">Tidy genomic analysis workflows</a> (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–16:30</td>
