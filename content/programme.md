@@ -301,7 +301,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 9</strong></td>
-			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
+			<td>Analysis of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>17:00–17:30</td>
@@ -368,7 +368,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–16:30</td>
 			<td><strong>Lab 9</strong></td>
-			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
+			<td>Analysis of untargeted metabolomics data (Johannes Rainer)</td>
 		</tr>
 		<tr>
 			<td>16:30-17:00</td>
