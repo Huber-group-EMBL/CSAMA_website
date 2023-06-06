@@ -167,6 +167,23 @@ if((any(grepl("xcms", x = toInstall))) || (Biobase::package.version("xcms") < "3
   )
 }
 
+if("NewWave" %in% toInstall) {
+  if(Sys.info()["sysname"] == "Darwin") {
+    if(Sys.info()["machine"] == "x86_64") {
+      message("Installing NewWave x86_64")
+      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-x86_64/contrib/4.3/SharedObject_1.14.0.tgz", repos = NULL)
+      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-x86_64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
+    } else {
+      message("Installing NewWave arm64")
+      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/SharedObject_1.14.0.tgz", repos = NULL)
+      install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
+    }
+    toInstall <- setdiff(toInstall, "NewWave")
+  } else {
+    message("NewWave will be installed later. You can ignore this message.")
+  }
+}
+
 
 ##---------------------------
 ## Install the required packages
