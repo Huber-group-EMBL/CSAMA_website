@@ -167,6 +167,11 @@ if((any(grepl("xcms", x = toInstall))) || (Biobase::package.version("xcms") < "3
   )
 }
 
+## These two sections install some Mac package binaries directly. 
+## At the time of CSAMA 2023 there were several packages that were "not available" via BiocManager::install()
+## due to issues with dependencies in the build system, but the binaries had been created
+## Installing these here saved work trying to get the compilers working for everyone to build from source.
+
 if("NewWave" %in% toInstall) {
   if(Sys.info()["sysname"] == "Darwin") {
     if(Sys.info()["machine"] == "x86_64") {
@@ -179,6 +184,20 @@ if("NewWave" %in% toInstall) {
       install.packages("https://bioconductor.org/packages/release/bioc/bin/macosx/big-sur-arm64/contrib/4.3/NewWave_1.10.0.tgz", repos = NULL)
     }
     toInstall <- setdiff(toInstall, "NewWave")
+  } else {
+    message("NewWave will be installed later. You can ignore this message.")
+  }
+}
+
+if("densvis" %in% toInstall) {
+  if(Sys.info()["sysname"] == "Darwin") {
+    if(Sys.info()["machine"] == "x86_64") {
+      message("Installing densvis x86_64")
+      install.packages("https://bioconductor.org/packages/3.16/bioc/bin/macosx/contrib/4.2/densvis_1.8.3.tgz", repos = NULL)
+      toInstall <- setdiff(toInstall, "densvis")
+    } else {
+      message("Installing densvis binary not available for arm64")
+    }
   } else {
     message("NewWave will be installed later. You can ignore this message.")
   }
