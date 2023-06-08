@@ -210,7 +210,7 @@ if("densvis" %in% toInstall) {
 # do not compile from sources
 options(install.packages.compile.from.source = "never")
 if(.Platform$OS.type == "windows" || Sys.info()["sysname"] == "Darwin") {
-  BiocManager::install(toInstall, ask = FALSE, quiet = TRUE, update = FALSE, type = "binary")
+  BiocManager::install(toInstall, ask = FALSE, quiet = TRUE, update = FALSE)
 } else {
   fail <- installer_with_progress(toInstall)
 }
