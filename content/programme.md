@@ -358,7 +358,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–16:30</td>
 			<td><strong>Lab 6</strong></td>
-			<td>Multiple testing and FDR (Wolfgang Huber)</td>
+			<td>Working with image data (Wolfgang Huber)</td>
 		</tr>
 		<tr>
 			<td>14:00–16:30</td>
