@@ -361,11 +361,6 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Working with image data (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td><s>14:00–16:30</s></td>
-			<td><s>Lab 7</s></td>
-			<td><s>Tidy genomic analysis workflows (Michael Love)</s></td>
-		</tr>
-		<tr>
 			<td>14:00–16:30</td>
 			<td><strong>Lab 9</strong></td>
 			<td>Annotation of untargeted metabolomics data (Johannes Rainer)</td>
