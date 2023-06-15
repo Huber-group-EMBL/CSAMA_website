@@ -361,9 +361,9 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<td>Working with image data (Wolfgang Huber)</td>
 		</tr>
 		<tr>
-			<td>14:00–16:30</td>
-			<td><strong>Lab 7</strong></td>
-			<td><a href="https://nullranges.github.io/tidy-ranges-tutorial/">Tidy genomic analysis workflows</a> (Michael Love)</td>
+			<td><s>14:00–16:30</s></td>
+			<td><s>Lab 7</s></td>
+			<td><s>Tidy genomic analysis workflows (Michael Love)</s></td>
 		</tr>
 		<tr>
 			<td>14:00–16:30</td>
