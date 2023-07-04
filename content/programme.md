@@ -114,7 +114,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 			<ul>
               <li>Group projects (Vincent Carey, Robert Gentleman)
  			  <li>Interactive exploration and data quality assessment for matrix-shaped data with <a href="https://doi.org/doi:10.18129/B9.bioc.iSEE">iSEE</a> (Charlotte Soneson)
- 			  <li>Tidy analysis of genomic data with <a href="https://sa-lee.github.io/plyranges/">plyranges</a> and other packages (Michael Love)
+ 			  <li>Tidy analysis of genomic data with <a href="https://sa-lee.github.io/plyranges/">plyranges</a>, and <a href="https://tidybiology.github.io/tidy-ranges-tutorial">tidy ranges tutorial</a> (Michael Love)
               <li>HDF5 / large single-cell datasets (Davide Risso)
 			</ul>
 			</td>
@@ -296,7 +296,7 @@ Please see <a href="https://github.com/Bioconductor/CSAMA">here for the teaching
 		<tr>
 			<td>14:00–17:00</td>
 			<td><strong>Lab 7</strong></td>
-			<td><a href="https://nullranges.github.io/tidy-ranges-tutorial/">Tidy genomic analysis workflows</a> (Michael Love)</td>
+			<td><a href="https://tidybiology.github.io/tidy-ranges-tutorial/">Tidy genomic analysis workflows</a> (Michael Love)</td>
 		</tr>
 		<tr>
 			<td>14:00–17:00</td>
